@@ -1,7 +1,7 @@
-STAGING_URL=https://compiled.stage.ccnmtl.columbia.edu/
-PROD_URL=https://compiled.ccnmtl.columbia.edu/
-STAGING_BUCKET=compiled.stage.ccnmtl.columbia.edu
-PROD_BUCKET=compiled.ccnmtl.columbia.edu
+STAGING_URL=https://passhugo.stage.ccnmtl.columbia.edu/
+PROD_URL=https://pass.ctl.columbia.edu/
+STAGING_BUCKET=passhugo.stage.ccnmtl.columbia.edu
+PROD_BUCKET=pass.ctl.columbia.edu
 INTERMEDIATE_STEPS ?= make $(PUBLIC)/js/all.json
 
 JS_FILES=static/js/src
