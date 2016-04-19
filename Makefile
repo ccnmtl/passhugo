@@ -2,7 +2,7 @@ STAGING_URL=https://passhugo.stage.ccnmtl.columbia.edu/
 PROD_URL=https://pass.ctl.columbia.edu/
 STAGING_BUCKET=passhugo.stage.ccnmtl.columbia.edu
 PROD_BUCKET=pass.ctl.columbia.edu
-INTERMEDIATE_STEPS ?= make $(PUBLIC)/js/all.json
+INTERMEDIATE_STEPS ?= echo nothing
 
 JS_FILES=static/js/src
 
