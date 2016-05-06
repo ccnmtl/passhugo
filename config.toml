@@ -1,3 +1,11 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseURL = "http://kodos.ccnmtl.columbia.edu/"
+metaDataFormat = "yaml"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "ctl-book"
+title = "Population Based Approaches to Patient Service and Professional Success (PASS)"
+
+[params]
+    customCSS = "main.css"
+    description = "PASS is a series of self-paced, web-based, rich learning modules that address five specific populations across the lifespan, their oral health needs, and opportunities to address their care. This project aims to teach pre-doctoral dental students to consider diverse patient populations when deciding where and how to build a career."
+    keywords = "dental education, oral healthcare, medicine, dentistry"
+    shortTitle = "PASS"

@@ -1,0 +1,32 @@
+body {
+    background-color: #e1f0ef;
+}
+
+.footer-moreinfo {
+    background-color: #dedede;
+}
+
+a
+{
+    color: #339999;
+    text-decoration: none;
+}
+
+a:hover
+{
+	color: #35a0a4;
+	text-decoration: none;
+}
+
+a:active
+{
+	color: #35a0a4;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #f46b08;
+	text-decoration: none;
+}
+
