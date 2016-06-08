@@ -79,7 +79,7 @@ header.container {
     height: 100%;
 }
 
-#front-page-banner {
+#page-banner {
     padding: 0;
     margin: 0;
     background: #ccc url('/img/banner-front.jpg') 0 0 no-repeat;
@@ -87,10 +87,11 @@ header.container {
     background-size: 772px;
 }
 
-#section-page-banner {
+.module_page #page-banner {
     padding: 0;
     margin: 0;
     background-color: #fff;
+    background-image: none;
     height: 35px;
 }
 
@@ -158,10 +159,10 @@ header.container {
     height: 25px;
 }
 
-/* ------------------------------------- */
+/* -----------------Module pages-------------------- */
 
 
-.section-title {
+/*.section-title {
     display: inline-block;
     height: 35px;
     font: 400 16px/35px 'Montserrat', sans-serif;
@@ -172,12 +173,14 @@ header.container {
     white-space: nowrap;
     max-width: 414px;
     overflow: hidden;
-}
+}*/
 
+/*
 .section-title a {
     color: #000;
     text-decoration: none;
 }
+*/
 
 .section-title .fadeout {
     height: 35px;
@@ -203,16 +206,16 @@ display: none;
     transition: background-color 1s;/* this determines how long it takes to expand*/
 }
 
-.section-title-text {
+/* .section-title-text {
     display: inline-block;
     margin-left: 5px;
-}
+}*/
 
-.col-section-sidenav {
-    margin-top: -35px;
+.sidenav {
     background-color: transparent;
     z-index: 2000;
     height: 35px;
+    background-color: #ccc;
 }
 
 .col-section-content {
@@ -423,7 +426,7 @@ div.interactive-placeholder {
 }
 
 @media (min-width: 768px) {
-    #front-page-banner {
+    #page-banner {
         height: 200px;
         background-size: auto;
     }
@@ -473,14 +476,22 @@ div.interactive-placeholder {
     #section-menu {
         margin-left: -10px;
     }
-    .col-section-sidenav {
+    .docs-container {
+        padding: 0 15px 25px 15px;
+    }
+    .module_page .sidenav {
         height: auto;
         margin-top: 0;
         padding: 0;
         z-index: 2000;
         position: static;
+        background-color: #ccc;
+        width: 195px;
     }
-
+    .module_page .content {
+        margin-right: -100%;
+        margin-left: 195px;
+    }
 }
 
 

@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+<nav>
+  <ul class="pager">
+    {{ if .Params.previous }}
+    <li class="previous"><a href="{{.Params.previous}}"><span aria-hidden="true">&larr;</span> Previous</a></li>
+    {{ end }}
+    {{ if .Params.next }}
+    <li class="next"><a href="{{.Params.next}}">Next <span aria-hidden="true">&rarr;</span></a></li>
+    {{ end }}
+  </ul>
+</nav>
+{{ partial "footer.html" . }}
