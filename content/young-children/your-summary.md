@@ -7,88 +7,18 @@ depth: 5
 next: "../exemplars/"
 previous: "../your-selections/"
 ---
-<h3>A Summary Of Your Choices</h3><div class='maintext'>
-<div class="right"><img src="https://s3.amazonaws.com/ccnmtl-pass-static-prod/uploads/images/2012/09/10/you-edit.jpg"></div>
+<h3>A Summary Of Your Choices</h3><div class="pageblock"><div class="maintext">
+<div class="right">{{< figure src="/img/assets/you-edit.jpg" alt="" >}}</div>
 <p><strong>Factors for you to consider:</strong></p>
 
 Most important factor:</div>
-<h3></h3>
-
-
-
-
-  <p class="warning">[User has not responded to this question]</p>
-
-
-
-
-<h3></h3><div class='maintext'>Next important factor:</div>
-<h3></h3>
-
-
-
-
-  <p class="warning">[User has not responded to this question]</p>
-
-
-
-
-<h3></h3><div class='maintext'>Third important factor:</div>
-<h3></h3>
-
-
-
-
-  <p class="warning">[User has not responded to this question]</p>
-
-
-
-
-<h3></h3><div class="maintext"><strong>Primary choice for your dental career:</strong></div>
-<h3></h3>
-
-
-
-
-  <p class="warning">[User has not responded to this question]</p>
-
-
-
-
-<h3></h3><div class="maintext"><strong>Secondary choice for your dental career:</strong></div>
-<h3></h3>
-
-
-
-
-  <p class="warning">[User has not responded to this question]</p>
-
-
-
-
-<h3></h3><div class='maintext'><strong>This is the area you chose to set up or join a practice:</strong></div>
-<h3></h3>
-
-
-
-
-  <p class="warning">[User has not responded to this question]</p>
-
-
-
-
-<h3></h3><div class='maintext'><strong>Your reasoning for selecting this area:</strong></div>
-<h3></h3>
-
-
-
-
-  <p class="warning">[User has not responded to this question]</p>
-
-
-
-
-<h3>Reflection</h3>
+</div><div class="pageblock"><div class="maintext">Next important factor:</div>
+</div><div class="pageblock"><div class="maintext">Third important factor:</div>
+</div><div class="pageblock"><div class="maintext"><strong>Primary choice for your dental career:</strong></div>
+</div><div class="pageblock"><div class="maintext"><strong>Secondary choice for your dental career:</strong></div>
+</div><div class="pageblock"><div class="maintext"><strong>This is the area you chose to set up or join a practice:</strong></div>
+</div><div class="pageblock"><div class="maintext"><strong>Your reasoning for selecting this area:</strong></div>
+</div><h3>Reflection</h3><div class="pageblock">
 
 
 
@@ -105,3 +35,4 @@ Most important factor:</div>
 
 
 
+</div>
