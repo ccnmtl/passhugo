@@ -7,9 +7,9 @@ depth: 4
 next: "../your-selections/"
 previous: "../sallys-summary/"
 ---
-<h3></h3><div class="right"><img src="https://s3.amazonaws.com/ccnmtl-pass-static-prod/uploads/images/2012/09/10/you-edit.jpg"></div>
-<h3></h3><div class="maintext"><p>Imagine now that <strong>you</strong> are a newly minted dentist with a strong interest in providing dental care to young children. You also decide to move to North Oralington and you begin planning your dental career.</p></div>
-<h3>Factors</h3>
+<div class="pageblock"><div class="right">{{< figure src="/img/assets/you-edit.jpg" alt="" >}}</div>
+</div><div class="pageblock"><div class="maintext"><p>Imagine now that <strong>you</strong> are a newly minted dentist with a strong interest in providing dental care to young children. You also decide to move to North Oralington and you begin planning your dental career.</p></div>
+</div><h3>Factors</h3><div class="pageblock">
 
 
 <div class='question'><p>Before looking at the map, think about which factors would play a significant role in your own decision.</p>
@@ -72,3 +72,4 @@ previous: "../sallys-summary/"
 
 
 
+</div>

@@ -7,14 +7,12 @@ depth: 4
 next: "../advise-sally/"
 previous: "../sams-summary/"
 ---
-<h3>Your Friend Sally</h3><div class="right"><img src="https://s3.amazonaws.com/ccnmtl-pass-static-prod/uploads/images/2012/09/10/iStock_000009988773Small_sally.jpg"></div>
-
-<div class='maintext'>
+<h3>Your Friend Sally</h3><div class="pageblock"><div class="right">{{< figure src="/img/assets/iStock_000009988773Small_sally.jpg" alt="" >}}</div>
+<div class="maintext">
 <p>Your friend Sally graduated from dental school a couple of years earlier than you and just completed her pediatric dental residency. She is also planning to move to North Oralington.</p>
-
 <p>Sally's main goal is to provide care to under-served young children and has considered working at a community health clinic. She is in her late twenties, is single, and has about 70K of remaining loans. She comes to you for advice on the best location for her to set up or join a practice.</p>
 </div>
-<h3>Factors Sally should consider</h3>
+</div><h3>Factors Sally should consider</h3><div class="pageblock">
 
 
 <div class='question'><p>Before looking at the map, think about some of the factors that might play a significant role in Sally's decision.</p>
@@ -77,3 +75,4 @@ previous: "../sams-summary/"
 
 
 
+</div>

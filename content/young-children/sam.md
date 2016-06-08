@@ -7,16 +7,13 @@ depth: 4
 next: "../advise-sam/"
 previous: "../career-planning-activity/"
 ---
-<h3>Your friend Sam</h3><div class="right"><img src="https://s3.amazonaws.com/ccnmtl-pass-static-prod/uploads/images/2012/09/10/sam-family-edit.jpg"></div>
-
-<div class='maintext'>
+<h3>Your friend Sam</h3><div class="pageblock"><div class="right">{{< figure src="/img/assets/sam-family-edit.jpg" alt="" >}}</div>
+<div class="maintext">
 <p>Your friend Sam just finished dental school and plans to move to North Oralington to be closer to his family. He is in his late twenties and is married with a 2 year old girl. His wife is currently not employed.</p>
-
 <p>He is a general dentist with a strong interest in working with young children. When he gets to North Oralington, he would like to open or join a family-oriented private practice.</p>
-
 <p>Sam has about 180K remaining in debt from dental school. His family is open to living anywhere in the state. He comes to you for your recommendation on where he should set up or join a practice.</p>
 </div>
-<h3>Factors Sam should consider</h3>
+</div><h3>Factors Sam should consider</h3><div class="pageblock">
 
 
 <div class='question'><p>Before looking at the map, think about some of the factors that might play a significant role in Sam's decision.</p>
@@ -79,3 +76,4 @@ previous: "../career-planning-activity/"
 
 
 
+</div>

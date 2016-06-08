@@ -7,8 +7,8 @@ depth: 3
 next: "../conclusion/"
 previous: "../exemplars/"
 ---
-<h3>Survey</h3>
-<h3></h3>
+<h3>Survey</h3><div class="pageblock">
+</div><div class="pageblock hide-feedback">
 
 
 
@@ -34,8 +34,8 @@ previous: "../exemplars/"
 
 
 
-<h3>Please describe your experience using the module:</h3>
-<h3></h3>
+</div><h3>Please describe your experience using the module:</h3><div class="pageblock">
+</div><div class="pageblock hide-feedback">
 
 
 
@@ -114,5 +114,5 @@ previous: "../exemplars/"
 
 
 
-<h3></h3>
-<p><input type="hidden" name="redirect" value="/" /></p>
+</div><div class="pageblock"><p><input name="redirect" type="hidden" value="/"/></p>
+</div>
