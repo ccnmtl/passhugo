@@ -6,7 +6,7 @@ INTERMEDIATE_STEPS ?= echo nothing
 
 JS_FILES=static/js/src
 
-all: jshint jscs install-modules
+all: jshint jscs webpack
 
 include *.mk
 
@@ -17,7 +17,3 @@ $(PUBLIC)/js/all.json: $(PUBLIC)/json/all/index.html
 runserver-zarina:
 	hugo --buildDrafts --verboseLog=true -v
 	hugo server --baseUrl=http://kodos.ccnmtl.columbia.edu/ --bind=0.0.0.0 --port=13093 --watch --buildDrafts --verboseLog=true -v
-
-install-modules:
-	ln -sf ../../node_modules/supportservices-pack static/lib/supportservices-pack
-	ln -sf ../../node_modules/specialneedsvisit-pack static/lib/specialneedsvisit-pack
