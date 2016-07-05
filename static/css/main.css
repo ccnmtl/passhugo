@@ -109,6 +109,16 @@ a:visited
     text-align: center;
 }
 
+.submit-container .btn-print {
+    margin-left: 10px;
+}
+
+.submit-container .btn-print:before {
+    content: "\e045";
+    font-family: "Glyphicons Halflings";
+    margin-right: 3px;
+}
+
 /* Module 5 Pre-visit quizblock modification */
 
 .mod5-previsit .moretoggle {
