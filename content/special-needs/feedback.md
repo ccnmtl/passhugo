@@ -129,4 +129,4 @@ previous: "../visit-summary/"
 
 
 
-</div><input class="btn btn-info btn-submit-section" type="submit" value="Submit"></form>
+</div><div class="submit-container"><input class="btn btn-info btn-submit-section" type="submit" value="Submit" /></div></form>

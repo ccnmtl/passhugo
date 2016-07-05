@@ -31,4 +31,4 @@ You are pleased with how your first visit went and want to continue working towa
 
 
 
-</div><input class="btn btn-info btn-submit-section" type="submit" value="Submit"></form>
+</div><div class="submit-container"><input class="btn btn-info btn-submit-section" type="submit" value="Submit" /></div></form>

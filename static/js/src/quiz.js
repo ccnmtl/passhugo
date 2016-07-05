@@ -34,6 +34,12 @@ function isFormComplete(form) {
 }
 
 jQuery(document).ready(function() {
+    var exitWarning = false;
+
+    // add a print button to every page with a submit button
+    jQuery('.btn-submit-section').after(
+            '<button class="btn btn-default btn-print hidden">Print</button>');
+
     jQuery('.btn-submit-section').click(function(evt) {
         evt.preventDefault();
 
@@ -56,6 +62,15 @@ jQuery(document).ready(function() {
             jQuery('.btn-submit-section').attr('disabled', 'disabled');
 
             jQuery('.mod5-previsit').find('.casesanswerdisplay').show();
+        }
+    });
+
+    jQuery('li.next a').click(function(evt) {
+        var submitted = jQuery('.btn-submit-section[disabled="disabled"]');
+        if (submitted.length < 1) {
+            alert('Please complete all form fields before continuing.');
+            evt.preventDefault();
+            return false;
         }
     });
 });

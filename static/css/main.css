@@ -105,6 +105,10 @@ a:visited
 }
 
 
+.submit-container {
+    text-align: center;
+}
+
 /* Module 5 Pre-visit quizblock modification */
 
 .mod5-previsit .moretoggle {
