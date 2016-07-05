@@ -1,0 +1,51 @@
+---
+title: "Preparing for the first treatment"
+module: "Special Needs"
+type: "module-page"
+ordinal: 13
+depth: 4
+next: "../home-care/"
+previous: "../pre-visit/"
+---
+<form method="post" action="."><div class="pageblock"><p>As you already read in the <a href="http://ccnmtl.columbia.edu/projects/pass/SpecialNeeds_Mod5/POCAutism.pdf" target="_blank"> Practical Oral Care for People with Autism</a> there are strategies that can be taken for health challenges often seen in treating autistic patients. </p>
+<p>Given what you know about Tyler from your interview with Donna and his pre-visit, describe three possible strategies for care for each of the following health challenges that you might face on his visit the next day.</p>
+</div><div class="pageblock mod5-previsit">
+
+
+
+
+
+
+
+  
+
+
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p><strong>Communication problems/mental capabilities</strong></p></div></div><textarea rows="10" name="question155" class="form-control"></textarea></div><div class="casesanswerdisplay clearfix"><a href="#q155" class="moretoggle">Show explanation &gt;&gt;</a><div id="q155" class="toggleable"><div class="casequestionexplanation"><div class="casequestionexplanationheader">Suggested considerations:</div><p>1) Ascertain beforehand the best mode for communication.  You know that Tyler has a limited vocabulary and is able to follow some simple commands.</p><p>2) Have a parent or caregiver present who can help. </p><p>3) Some parents make situation worse. Be prepared to ask them to leave if necessary</p><p>4) Consider a storyboard or pictures of what is going to happen at the visit.</p><p>5) Use the Tell-Show-Do method.  </p></div></div></div></div></div>
+
+  
+
+
+<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p><strong>Behavior problems</strong></p></div></div><textarea rows="10" name="question156" class="form-control"></textarea></div><div class="casesanswerdisplay clearfix"><a href="#q156" class="moretoggle">Show explanation &gt;&gt;</a><div id="q156" class="toggleable"><div class="casequestionexplanation"><div class="casequestionexplanationheader">Suggested considerations:</div><p>1) Positive reinforcement. Continually congratulate Tyler on his cooperative behavior throughout the appointment.  </p><p>2) Use motivators or rewards.  Tyler loves electronic equipment such as IPads and cellular phones and likes to play games on them. That works sometimes as well as money.  </p><p>3) Use concept of ONE voice.  Continual reinforcement and instruction using one voice helps allow for cooperative behavior during necessary procedures.  </p><p>4) Create an environment of expected behavior and do not deviate from it.</p><p>5) Consider chemical restraint.  Oral minimal anxiolysis may be necessary in order to allow an exam, radiographs and oral prophylaxis.  The oral sedation will make Tyler drowsy but arousable and possibly more cooperative.  This does require monitoring equipment and recording of his vital signs over the course of the visit.   </p><p>6) Consider physical restraint.  Even with oral sedation, Tyler may still refuse treatment by yelling and pulling away.  In this case you can discuss the use of a papoose board with his mother.  </p></div></div></div></div></div>
+
+  
+
+
+<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p><strong>Unusual Responses to Stimuli</strong></p></div></div><textarea rows="10" name="question157" class="form-control"></textarea></div><div class="casesanswerdisplay clearfix"><a href="#q157" class="moretoggle">Show explanation &gt;&gt;</a><div id="q157" class="toggleable"><div class="casequestionexplanation"><div class="casequestionexplanationheader">Suggested considerations:</div><p>1) Avoid unnecessary items that trigger bad behavior.  For example, Tyler likes bubblegum flavor toothpaste.  Using a flavored toothpaste that he likes might reduce the risk of him getting upset.  </p><p>2) Desensitization: introduce necessary items slowly for brief periods of time in a non-    threatening way.</p><p>3) Minimize the number of distractions around the dental chair.  It may also help to dim the lights.  </p></div></div></div></div></div>
+
+  
+
+
+<div class="cases"><div class="casetitle">Question 4:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p><strong>Unusual and Unpredictable Body Movements</strong></p></div></div><textarea rows="10" name="question158" class="form-control"></textarea></div><div class="casesanswerdisplay clearfix"><a href="#q158" class="moretoggle">Show explanation &gt;&gt;</a><div id="q158" class="toggleable"><div class="casequestionexplanation"><div class="casequestionexplanationheader">Suggested considerations:</div><p>1) Donna mentioned that Tyler flaps and swings his hands.  Be prepared to wait until this stops or work around them. </p><p>2) Watch for patterns or significance of body movement: response to joy, pain, or fear?  Keep note of this in his chart.  </p><p>3) Resume treatment when able.  Do not condition patient to believe they can end the visit with a physical gesture.</p></div></div></div></div></div>
+
+  
+
+
+<div class="cases"><div class="casetitle">Question 5:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p><strong>Seizures</strong></p></div></div><textarea rows="10" name="question159" class="form-control"></textarea></div><div class="casesanswerdisplay clearfix"><a href="#q159" class="moretoggle">Show explanation &gt;&gt;</a><div id="q159" class="toggleable"><div class="casequestionexplanation"><div class="casequestionexplanationheader">Suggested considerations:</div><p>1) Be prepared to manage the seizure.  Ask Donna before the visit if Tyler took his seizure medication.</p><p>2) Sit Tyler in a supine position</p><p>3) If a seizure occurs protect the patient by: protecting the airway, clearing the mouth, protecting the head, and loosening tight clothing. </p><p>4) Consider consulting Tyler’s physician to discuss his seizures and medications.</p></div></div></div></div></div>
+
+
+
+  <script src="/media/quizblock/js/quizshow.js"></script>
+
+
+
+</div><input class="btn btn-info btn-submit-section" type="submit" value="Submit"></form>
