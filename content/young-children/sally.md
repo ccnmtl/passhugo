@@ -1,13 +1,13 @@
 ---
 title: "Sally"
 module: "Young Children"
-type: "module_page"
+type: "module-page"
 ordinal: 6
 depth: 4
 next: "../advise-sally/"
 previous: "../sams-summary/"
 ---
-<h3>Your Friend Sally</h3><div class="pageblock"><div class="right">{{< figure src="/img/assets/iStock_000009988773Small_sally.jpg" alt="" >}}</div>
+<form method="post" action="."><h3>Your Friend Sally</h3><div class="pageblock"><div class="right">{{< figure src="/img/assets/iStock_000009988773Small_sally.jpg" alt="" class="" >}}</div>
 <div class="maintext">
 <p>Your friend Sally graduated from dental school a couple of years earlier than you and just completed her pediatric dental residency. She is also planning to move to North Oralington.</p>
 <p>Sally's main goal is to provide care to under-served young children and has considered working at a community health clinic. She is in her late twenties, is single, and has about 70K of remaining loans. She comes to you for advice on the best location for her to set up or join a practice.</p>
@@ -26,7 +26,7 @@ previous: "../sams-summary/"
   
 
 
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Most important factor:</p></div></div></div><select name="pageblock-128-question98"><option value="-----"
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Most important factor:</p></div></div></div><form id="form-98" method="post"><select name="pageblock-128-question98"><option value="-----"
     >-----</option><option value="Work area (urban, suburban, or rural)"
     >Work area (urban, suburban, or rural)</option><option value="Patient population’s socioeconomic status"
     >Patient population’s socioeconomic status</option><option value="Personal debt to repay"
@@ -37,12 +37,12 @@ previous: "../sams-summary/"
     >School system or other family related obligations</option><option value="Available leisure and cultural activities"
     >Available leisure and cultural activities</option><option value="Length of commute or availability of reliable transportation"
     >Length of commute or availability of reliable transportation</option><option value="Patient population is diverse"
-    >Patient population is diverse</option></select></div></div></div>
+    >Patient population is diverse</option></select></form></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Next important factor:</p></div></div></div><select name="pageblock-128-question99"><option value="-----"
+<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Next important factor:</p></div></div></div><form id="form-99" method="post"><select name="pageblock-128-question99"><option value="-----"
     >-----</option><option value="Work area (urban, suburban, or rural)"
     >Work area (urban, suburban, or rural)</option><option value="Personal debt to repay"
     >Personal debt to repay</option><option value="A need for dentists based on population size or level of disease"
@@ -53,12 +53,12 @@ previous: "../sams-summary/"
     >Available leisure and cultural activities</option><option value="Length of commute or availability of reliable transportation"
     >Length of commute or availability of reliable transportation</option><option value="Patient population is diverse"
     >Patient population is diverse</option><option value="Patient population’s socioeconomic status"
-    >Patient population’s socioeconomic status</option></select></div></div></div>
+    >Patient population’s socioeconomic status</option></select></form></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Third important factor:</p></div></div></div><select name="pageblock-128-question100"><option value="-----"
+<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Third important factor:</p></div></div></div><form id="form-100" method="post"><select name="pageblock-128-question100"><option value="-----"
     >-----</option><option value="Work area (urban, suburban, or rural)"
     >Work area (urban, suburban, or rural)</option><option value="Personal debt to repay"
     >Personal debt to repay</option><option value="A need for dentists based on population size or level of disease"
@@ -69,10 +69,12 @@ previous: "../sams-summary/"
     >Available leisure and cultural activities</option><option value="Length of commute or availability of reliable transportation"
     >Length of commute or availability of reliable transportation</option><option value="Patient population is diverse"
     >Patient population is diverse</option><option value="Patient population’s socioeconomic status"
-    >Patient population’s socioeconomic status</option></select></div></div></div>
+    >Patient population’s socioeconomic status</option></select></form></div></div></div>
 
 
 
+  <script src="/media/quizblock/js/quizshow.js"></script>
 
 
-</div>
+
+</div><div class="submit-container"><input class="btn btn-info btn-submit-section" type="submit" value="Submit" /></div></form>

@@ -1,13 +1,13 @@
 ---
 title: "Your Selections"
 module: "Young Children"
-type: "module_page"
+type: "module-page"
 ordinal: 8
 depth: 5
 next: "../your-summary/"
 previous: "../your-career/"
 ---
-<h3>Career Choice</h3><div class="pageblock">
+<form method="post" action="."><h3>Career Choice</h3><div class="pageblock">
 
 
 <div class='question'>
@@ -20,7 +20,7 @@ previous: "../your-career/"
   
 
 
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question'><p>Primary (required).</p></div><div class='question-subhead'><p>Your primary choice is how you intend to spend the majority of your working hours.</p></div></div></div><select name="pageblock-46-question24"><option value="-----"
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question'><p>Primary (required).</p></div><div class='question-subhead'><p>Your primary choice is how you intend to spend the majority of your working hours.</p></div></div></div><form id="form-24" method="post"><select name="pageblock-46-question24"><option value="-----"
     >-----</option><option value="Solo private practice"
     >Solo private practice</option><option value="Group private practice"
     >Group private practice</option><option value="Solo private practice accepting Medicaid"
@@ -28,12 +28,12 @@ previous: "../your-career/"
     >Group private practice accepting Medicaid</option><option value="Community health center"
     >Community health center</option><option value="Dental school"
     >Dental school</option><option value="Hospital"
-    >Hospital</option></select></div></div></div>
+    >Hospital</option></select></form></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question'><p>Secondary (optional).</p></div><div class='question-subhead'><p>Your secondary choice is the next in line in terms of proportion of work hours.</p></div></div></div><select name="pageblock-46-question25"><option value="-----"
+<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question'><p>Secondary (optional).</p></div><div class='question-subhead'><p>Your secondary choice is the next in line in terms of proportion of work hours.</p></div></div></div><form id="form-25" method="post"><select name="pageblock-46-question25"><option value="-----"
     >-----</option><option value="Solo private practice"
     >Solo private practice</option><option value="Group private practice"
     >Group private practice</option><option value="Solo private practice accepting Medicaid"
@@ -41,9 +41,11 @@ previous: "../your-career/"
     >Group private practice accepting Medicaid</option><option value="Community health center"
     >Community health center</option><option value="Dental school"
     >Dental school</option><option value="Hospital"
-    >Hospital</option></select></div></div></div>
+    >Hospital</option></select></form></div></div></div>
 
 
+
+  <script src="/media/quizblock/js/quizshow.js"></script>
 
 
 
@@ -58,7 +60,7 @@ previous: "../your-career/"
   
 
 
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question'><p>After considering the available information on North Oralington, where would you  set up or join a practice? Please use the map to select a zip code.</p></div></div></div><select name="pageblock-56-question46"><option value="-----"
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question'><p>After considering the available information on North Oralington, where would you  set up or join a practice? Please use the map to select a zip code.</p></div></div></div><form id="form-46" method="post"><select name="pageblock-56-question46"><option value="-----"
     >-----</option><option value="10001"
     >10001</option><option value="10002"
     >10002</option><option value="10003"
@@ -108,15 +110,17 @@ previous: "../your-career/"
     >10046</option><option value="10047"
     >10047</option><option value="10048"
     >10048</option><option value="10049"
-    >10049</option></select></div></div></div>
+    >10049</option></select></form></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question'><p>How did you come to make this decision? List at least 3 important considerations explaining your reasoning.</p></div></div></div><textarea rows="10" name="pageblock-56-question47" class="form-control"></textarea></div></div></div>
+<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question'><p>How did you come to make this decision? List at least 3 important considerations explaining your reasoning.</p></div></div></div><textarea rows="10" name="question47" class="form-control"></textarea></div></div></div>
 
 
 
+  <script src="/media/quizblock/js/quizshow.js"></script>
 
 
-</div>
+
+</div><div class="submit-container"><input class="btn btn-info btn-submit-section" type="submit" value="Submit" /></div></form>

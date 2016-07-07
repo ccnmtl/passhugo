@@ -3,6 +3,8 @@ body {
     background-color: #efefef;
 }
 
+/* Primary elements ------------------------------------------------------- */
+
 h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -23,6 +25,8 @@ h3 {
     font-size: 20px;
     line-height: 120%;
 }
+
+/* Header + Banner -------------------------------------------------------- */
 
 #skippy
 {
@@ -87,7 +91,7 @@ header.container {
     background-size: 772px;
 }
 
-.module_page #page-banner {
+.module-page #page-banner {
     padding: 0;
     margin: 0;
     background-color: #fff;
@@ -113,21 +117,7 @@ header.container {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc3fb0b4', endColorstr='#9effffff',GradientType=1 ); /* IE6-9 */
 }
 
-.docs-container {
-    background-color: #fff;
-    position: relative;
-    padding: 0 10px 25px 10px;
-    min-height: 600px;
-}
-
-#maincontent:focus {
-    outline: 0;
-}
-
-#page-title {
-    margin-top: 0;
-    padding-top: 20px;
-}
+/* Footer------------------------------------------------------------------ */
 
 .footer-moreinfo,
 .footer-logos {
@@ -159,7 +149,28 @@ header.container {
     height: 25px;
 }
 
-/* -----------------Module pages-------------------- */
+/* Page body -------------------------------------------------------------- */
+
+.docs-container {
+    background-color: #fff;
+    position: relative;
+    padding: 0 10px 25px 10px;
+    min-height: 600px;
+}
+
+#maincontent:focus {
+    outline: 0;
+}
+
+#page-title {
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+.pageblock {
+    padding: 0 0 1em 0;
+    display: block;
+}
 
 
 /*.section-title {
@@ -403,6 +414,41 @@ div.interactive-placeholder {
         transition-timing-function: linear;
         }
 
+/* Alignment (custom) ----------------------------------------------------- */
+
+.left {
+    float: left;
+    margin: 15px;
+}
+
+.right {
+    float: right;
+    margin: 15px;
+}
+
+.center {
+    text-align: center;
+    margin: 15px;
+}
+
+/* Image (custom) --------------------------------------------------------- */
+
+.img-rounded {
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+
+.img-polaroid {
+  padding: 4px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
 
 @media (max-width: 415px) {
     .section-title .fadeout {
@@ -479,7 +525,7 @@ div.interactive-placeholder {
     .docs-container {
         padding: 0 15px 25px 15px;
     }
-    .module_page .sidenav {
+    .module-page .sidenav {
         height: auto;
         margin-top: 0;
         padding: 0;
@@ -488,7 +534,7 @@ div.interactive-placeholder {
         background-color: #ccc;
         width: 195px;
     }
-    .module_page .content {
+    .module-page .content {
         margin-right: -100%;
         margin-left: 195px;
     }

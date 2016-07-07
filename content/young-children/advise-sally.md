@@ -1,13 +1,13 @@
 ---
 title: "Advise Sally"
 module: "Young Children"
-type: "module_page"
+type: "module-page"
 ordinal: 7
 depth: 5
 next: "../sallys-summary/"
 previous: "../sally/"
 ---
-<div class="pageblock hide-feedback">
+<form method="post" action="."><div class="pageblock hide-feedback">
 
 
 <div class='question'><p>You just got access to a map of North Oralington. You can see this map by clicking the orange button to the right, "Show Map."</p></div>
@@ -18,34 +18,58 @@ previous: "../sally/"
   
 
 
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sally has heard of a loan replacement program available if she works at a dental safety net site. What zip code should she consider?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="pageblock-127-question93"
-                               value="10040" type="radio"><span class="caseanswerlabel">10040</span></label></li><li class=""><label><input name="pageblock-127-question93"
-                               value="10001" type="radio"><span class="caseanswerlabel">10001</span></label></li><li class=""><label><input name="pageblock-127-question93"
-                               value="10021" type="radio"><span class="caseanswerlabel">10021</span></label></li><li class=""><label><input name="pageblock-127-question93"
-                               value="10037" type="radio"><span class="caseanswerlabel">10037</span></label></li></ol></div></div></div>
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sally has heard of a loan replacement program available if she works at a dental safety net site. What zip code should she consider?</p></div></div><form id="form-93" method="post"><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question93" value="10040"
+                           type="radio">
+                    10040
+                </label></li><li class=""><label><input name="question93" value="10001"
+                           type="radio">
+                    10001
+                </label></li><li class=""><label><input name="question93" value="10021"
+                           type="radio">
+                    10021
+                </label></li><li class=""><label><input name="question93" value="10037"
+                           type="radio">
+                    10037
+                </label></li></ol></form></div><div class="casesanswerdisplay"><a href="#q93" class="moretoggle">Show answer &gt;&gt;</a><div id="q93" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>In dental school Sally completed a rotation focused on immigrant health. In which county could she utilize this experience?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="pageblock-127-question94"
-                               value="Springdale County" type="radio"><span class="caseanswerlabel">Springdale County</span></label></li><li class=""><label><input name="pageblock-127-question94"
-                               value="Duane County" type="radio"><span class="caseanswerlabel">Duane County</span></label></li><li class=""><label><input name="pageblock-127-question94"
-                               value="Beacon County" type="radio"><span class="caseanswerlabel">Beacon County</span></label></li><li class=""><label><input name="pageblock-127-question94"
-                               value="Annenburg County" type="radio"><span class="caseanswerlabel">Annenburg County</span></label></li></ol></div></div></div>
+<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>In dental school Sally completed a rotation focused on immigrant health. In which county could she utilize this experience?</p></div></div><form id="form-94" method="post"><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question94" value="Springdale County"
+                           type="radio">
+                    Springdale County
+                </label></li><li class=""><label><input name="question94" value="Duane County"
+                           type="radio">
+                    Duane County
+                </label></li><li class=""><label><input name="question94" value="Beacon County"
+                           type="radio">
+                    Beacon County
+                </label></li><li class=""><label><input name="question94" value="Annenburg County"
+                           type="radio">
+                    Annenburg County
+                </label></li></ol></form></div><div class="casesanswerdisplay"><a href="#q94" class="moretoggle">Show answer &gt;&gt;</a><div id="q94" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sally is thinking about working as a part-time associate at a practice that serves Medicaid populations.  Which county would you recommend she consider?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="pageblock-127-question95"
-                               value="Springdale County" type="radio"><span class="caseanswerlabel">Springdale County</span></label></li><li class=""><label><input name="pageblock-127-question95"
-                               value="Duane County" type="radio"><span class="caseanswerlabel">Duane County</span></label></li><li class=""><label><input name="pageblock-127-question95"
-                               value="Beacon County" type="radio"><span class="caseanswerlabel">Beacon County</span></label></li><li class=""><label><input name="pageblock-127-question95"
-                               value="Annenburg County" type="radio"><span class="caseanswerlabel">Annenburg County</span></label></li></ol></div></div></div>
+<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sally is thinking about working as a part-time associate at a practice that serves Medicaid populations.  Which county would you recommend she consider?</p></div></div><form id="form-95" method="post"><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question95" value="Springdale County"
+                           type="radio">
+                    Springdale County
+                </label></li><li class=""><label><input name="question95" value="Duane County"
+                           type="radio">
+                    Duane County
+                </label></li><li class=""><label><input name="question95" value="Beacon County"
+                           type="radio">
+                    Beacon County
+                </label></li><li class=""><label><input name="question95" value="Annenburg County"
+                           type="radio">
+                    Annenburg County
+                </label></li></ol></form></div><div class="casesanswerdisplay"><a href="#q95" class="moretoggle">Show answer &gt;&gt;</a><div id="q95" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 4:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Now spend some time to further explore North Oralington using the interactive map. Based on Sally's summary and your investigation, where would you recommend Sally to set up or join a practice? Please use the map to select a zip code.</p></div></div><select name="pageblock-127-question96"><option value="-----"
+<div class="cases"><div class="casetitle">Question 4:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Now spend some time to further explore North Oralington using the interactive map. Based on Sally's summary and your investigation, where would you recommend Sally to set up or join a practice? Please use the map to select a zip code.</p></div></div><form id="form-96" method="post"><select name="pageblock-127-question96"><option value="-----"
     >-----</option><option value="10001"
     >10001</option><option value="10002"
     >10002</option><option value="10003"
@@ -95,15 +119,17 @@ previous: "../sally/"
     >10046</option><option value="10047"
     >10047</option><option value="10048"
     >10048</option><option value="10049"
-    >10049</option></select></div></div></div>
+    >10049</option></select></form></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 5:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Please explain the reasoning for your choice.</p></div></div><textarea rows="10" name="pageblock-127-question97" class="form-control"></textarea></div></div></div>
+<div class="cases"><div class="casetitle">Question 5:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Please explain the reasoning for your choice.</p></div></div><textarea rows="10" name="question97" class="form-control"></textarea></div></div></div>
 
 
 
+  <script src="/media/quizblock/js/quizshow.js"></script>
 
 
-</div>
+
+</div><div class="submit-container"><input class="btn btn-info btn-submit-section" type="submit" value="Submit" /></div></form>

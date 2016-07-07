@@ -2,6 +2,9 @@
 
 {{ .Content }}
 
+{{ $currentNode := . }}
+{{ $currentNode }}
+
 <nav>
   <ul class="pager">
     {{ if .Params.previous }}
