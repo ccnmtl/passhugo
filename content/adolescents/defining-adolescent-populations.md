@@ -1,13 +1,13 @@
 ---
 title: "Defining Adolescent Populations"
 module: "Adolescents"
-type: "module_page"
+type: "module-page"
 ordinal: 3
 depth: 3
 next: "../what-health-issues-face-us-adolescents/"
 previous: "../introduction/"
 ---
-<div class="pageblock"><p>Adolescence is a transitional life phase, with imprecise boundaries between childhood and adulthood. It is defined either by age, by stage of development, or by functionality. Related terms include "tweens," "teens," "youth," "young people," and "young adults." It is characterized by physical, emotional, social and behavioral changes, as well as identity formation and increased independence. It is also strongly influenced by social, cultural, economic, and physical elements.</p>
+<form method="post" action="."><div class="pageblock"><p>Adolescence is a transitional life phase, with imprecise boundaries between childhood and adulthood. It is defined either by age, by stage of development, or by functionality. Related terms include "tweens," "teens," "youth," "young people," and "young adults." It is characterized by physical, emotional, social and behavioral changes, as well as identity formation and increased independence. It is also strongly influenced by social, cultural, economic, and physical elements.</p>
 <p>There is not a single scientific definition of adolescence or set age boundary. The age span can range from 10 years (when pubertal changes occur) to 24 years (adopting a full range of adult responsibilities). We will use data presented by the National Research Council and classification from the Institute of Medicine (IOM), which defines the following age ranges:</p>
 <ul>
 <li>Adolescents: ages 10-19</li>
@@ -50,4 +50,4 @@ previous: "../introduction/"
 <li>eating disorders</li>
 </ul>
 <p>Many LGBTQ adolescents endure rejection, ridicule, harassment, social isolation, and discrimination.</p>
-</div>
+</div></form>
