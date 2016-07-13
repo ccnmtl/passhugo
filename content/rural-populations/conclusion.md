@@ -2,7 +2,7 @@
 title: "Conclusion"
 module: "Rural Populations"
 type: "module-page"
-ordinal: 15
+weight: 15
 depth: 3
 previous: "../feedback/"
 ---

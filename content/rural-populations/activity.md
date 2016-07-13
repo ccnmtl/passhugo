@@ -2,7 +2,7 @@
 title: "Activity"
 module: "Rural Populations"
 type: "module-page"
-ordinal: 7
+weight: 7
 depth: 3
 next: "../review-strategies/"
 previous: "../rural-populations-and-oral-health/"

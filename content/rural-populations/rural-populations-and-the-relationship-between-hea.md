@@ -2,7 +2,7 @@
 title: "Relationship Between Health & Wealth"
 module: "Rural Populations"
 type: "module-page"
-ordinal: 5
+weight: 5
 depth: 3
 next: "../rural-populations-and-oral-health/"
 previous: "../rural-populations-an-overview/"

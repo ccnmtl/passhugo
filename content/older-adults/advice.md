@@ -2,7 +2,7 @@
 title: "Advice"
 module: "Older Adults"
 type: "module-page"
-ordinal: 13
+weight: 13
 depth: 4
 next: "../feedback/"
 previous: "../later-on/"

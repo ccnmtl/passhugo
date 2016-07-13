@@ -2,7 +2,7 @@
 title: "Defining Older Adults in the United States"
 module: "Older Adults"
 type: "module-page"
-ordinal: 3
+weight: 3
 depth: 3
 next: "../older-adults-and-their-oral-health/"
 previous: "../introduction/"

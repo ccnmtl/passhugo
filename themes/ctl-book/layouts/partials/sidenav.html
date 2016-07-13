@@ -1,0 +1,9 @@
+<div class="col-lg-2 sidenav clearfix">
+{{ $thisSection := .Section }}
+    <ul class="nav">
+    
+    {{ range after 1 ( where .Site.Pages.ByWeight "Section" $thisSection ) }}
+    <li><a href="{{ .Permalink }}" {{ if .Params.depth }}class="depth-{{ .Params.depth }}"{{ end }}>{{ .Weight }}. {{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+  </div>

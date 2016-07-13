@@ -2,7 +2,7 @@
 title: "Rural Populations: An Overview"
 module: "Rural Populations"
 type: "module-page"
-ordinal: 4
+weight: 4
 depth: 3
 next: "../rural-populations-and-the-relationship-between-hea/"
 previous: "../defining-rural-adults-in-the-united-states/"

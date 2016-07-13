@@ -2,7 +2,7 @@
 title: "Practice Location Report"
 module: "Adolescents"
 type: "module-page"
-ordinal: 10
+weight: 10
 depth: 3
 next: "../exemplars/"
 previous: "../complete-board-application/"

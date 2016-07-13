@@ -2,7 +2,7 @@
 title: "Exemplars"
 module: "Young Children"
 type: "module-page"
-ordinal: 5
+weight: 5
 depth: 3
 next: "../feedback/"
 previous: "../your-summary/"

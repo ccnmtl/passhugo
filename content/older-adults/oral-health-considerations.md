@@ -2,7 +2,7 @@
 title: "Oral Health Considerations"
 module: "Older Adults"
 type: "module-page"
-ordinal: 19
+weight: 19
 depth: 4
 next: "../a-few-years-later/"
 previous: "../meeting-your-uncles-needs/"

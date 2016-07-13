@@ -2,7 +2,7 @@
 title: "Special Needs Populations and Oral Health"
 module: "Special Needs"
 type: "module-page"
-ordinal: 6
+weight: 6
 depth: 3
 next: "../access-and-utilization-of-dental-services/"
 previous: "../general-health-issues/"

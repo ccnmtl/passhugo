@@ -2,7 +2,7 @@
 title: "Where you live matters"
 module: "Older Adults"
 type: "module-page"
-ordinal: 7
+weight: 7
 depth: 3
 next: "../medical-comorbidities/"
 previous: "../public-financing-of-dental-healthcare/"

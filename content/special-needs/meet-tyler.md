@@ -2,7 +2,7 @@
 title: "Meet Tyler"
 module: "Special Needs"
 type: "module-page"
-ordinal: 10
+weight: 10
 depth: 4
 next: "../qa-with-tylers-mom/"
 previous: "../activity/"

@@ -2,7 +2,7 @@
 title: "Feedback"
 module: "Young Children"
 type: "module-page"
-ordinal: 6
+weight: 6
 depth: 3
 next: "../conclusion/"
 previous: "../exemplars/"

@@ -2,7 +2,7 @@
 title: "Older Adults and their Oral Health"
 module: "Older Adults"
 type: "module-page"
-ordinal: 4
+weight: 4
 depth: 3
 next: "../access-to-and-utilization-of-dental-services/"
 previous: "../defining-older-adults-in-the-united-states/"

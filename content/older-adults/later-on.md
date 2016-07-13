@@ -2,7 +2,7 @@
 title: "Later on..."
 module: "Older Adults"
 type: "module-page"
-ordinal: 12
+weight: 12
 depth: 4
 next: "../advice/"
 previous: "../scenario-1/"

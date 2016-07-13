@@ -2,7 +2,7 @@
 title: "Access and Utilization of Dental Services"
 module: "Special Needs"
 type: "module-page"
-ordinal: 7
+weight: 7
 depth: 3
 next: "../financing-of-dental-healthcare/"
 previous: "../special-needs-populations-and-oral-health/"

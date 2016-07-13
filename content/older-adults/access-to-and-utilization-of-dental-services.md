@@ -2,7 +2,7 @@
 title: "Access to and Utilization of Dental Services"
 module: "Older Adults"
 type: "module-page"
-ordinal: 5
+weight: 5
 depth: 3
 next: "../public-financing-of-dental-healthcare/"
 previous: "../older-adults-and-their-oral-health/"

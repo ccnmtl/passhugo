@@ -2,7 +2,7 @@
 title: "Introduction"
 module: "Young Children"
 type: "module-page"
-ordinal: 2
+weight: 2
 depth: 3
 next: "../population-overview/"
 ---

@@ -2,7 +2,7 @@
 title: "Conclusion"
 module: "Young Children"
 type: "module-page"
-ordinal: 7
+weight: 7
 depth: 3
 previous: "../feedback/"
 ---

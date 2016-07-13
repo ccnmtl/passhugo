@@ -2,7 +2,7 @@
 title: "Your Summary"
 module: "Young Children"
 type: "module-page"
-ordinal: 9
+weight: 9
 depth: 5
 next: "../exemplars/"
 previous: "../your-selections/"

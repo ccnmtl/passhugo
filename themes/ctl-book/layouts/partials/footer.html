@@ -1,10 +1,16 @@
+        </div>
     </div>
+    {{ if .IsPage }}
+    {{ if eq .Type "module-page" }}
+         {{ partial "sidenav.html" . }}
+    {{ end }}
+    {{ end }}
 </div>
 
 <footer role="contentinfo">
     <div  class="container">
         <ul class="footer-moreinfo" role="presentation">
-            <li><a href="#"><span class="sr-only">Learn more </span>About<span class="sr-only"> {{ .Site.Params.shortTitle }}</span></a></li>
+            <li><a href="/info/about/"><span class="sr-only">Learn more </span>About<span class="sr-only"> {{ .Site.Params.shortTitle }}</span></a></li>
             <li><a href="#">Help<span class="sr-only"> on using this website</span></a></li>
             <li><a href="#">Contact<span class="sr-only"> us</span></a></li>
         </ul>

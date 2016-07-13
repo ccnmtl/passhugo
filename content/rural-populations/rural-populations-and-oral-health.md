@@ -2,7 +2,7 @@
 title: "Oral Health"
 module: "Rural Populations"
 type: "module-page"
-ordinal: 6
+weight: 6
 depth: 3
 next: "../activity/"
 previous: "../rural-populations-and-the-relationship-between-hea/"

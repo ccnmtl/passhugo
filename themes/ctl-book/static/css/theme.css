@@ -155,7 +155,11 @@ header.container {
     background-color: #fff;
     position: relative;
     padding: 0 10px 25px 10px;
+    padding-right: 0;
+    padding-left: 0;
     min-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #maincontent:focus {
@@ -510,6 +514,8 @@ div.interactive-placeholder {
     }    
     .docs-container {
         padding: 0 25px 25px 25px;
+        padding-right: 0;
+        padding-left: 0;
     }
     .footer-logos li {
         padding: 10px 30px;
@@ -545,6 +551,8 @@ div.interactive-placeholder {
     }
     .docs-container {
         padding: 0 15px 25px 15px;
+        padding-right: 0;
+        padding-left: 0;
     }
     .module-page .sidenav {
         height: auto;

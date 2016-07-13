@@ -2,7 +2,7 @@
 title: "Mr. and Mrs. Smith"
 module: "Older Adults"
 type: "module-page"
-ordinal: 10
+weight: 10
 depth: 4
 next: "../scenario-1/"
 previous: "../activity/"

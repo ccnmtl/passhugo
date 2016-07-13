@@ -2,7 +2,7 @@
 title: "Summary"
 module: "Older Adults"
 type: "module-page"
-ordinal: 11
+weight: 11
 depth: 3
 next: "../feedback/"
 previous: "../a-few-years-later/"

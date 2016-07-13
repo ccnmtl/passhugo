@@ -2,7 +2,7 @@
 title: "Feedback"
 module: "Older Adults"
 type: "module-page"
-ordinal: 12
+weight: 12
 depth: 3
 next: "../conclusion/"
 previous: "../dr-david-albert/"

@@ -2,7 +2,7 @@
 title: "Sally"
 module: "Young Children"
 type: "module-page"
-ordinal: 6
+weight: 6
 depth: 4
 next: "../advise-sally/"
 previous: "../sams-summary/"

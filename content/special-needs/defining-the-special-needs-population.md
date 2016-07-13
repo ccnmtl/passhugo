@@ -2,7 +2,7 @@
 title: "Defining the Special Needs Population"
 module: "Special Needs"
 type: "module-page"
-ordinal: 3
+weight: 3
 depth: 3
 next: "../types-of-disabilities/"
 previous: "../introduction/"

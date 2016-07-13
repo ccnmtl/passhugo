@@ -2,7 +2,7 @@
 title: "Exemplars"
 module: "Adolescents"
 type: "module-page"
-ordinal: 11
+weight: 11
 depth: 3
 next: "../feedback/"
 previous: "../activity-summary/"

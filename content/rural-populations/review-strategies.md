@@ -2,7 +2,7 @@
 title: "View Strategies"
 module: "Rural Populations"
 type: "module-page"
-ordinal: 8
+weight: 8
 depth: 3
 next: "../select-strategy/"
 previous: "../activity/"

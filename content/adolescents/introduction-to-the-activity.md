@@ -2,7 +2,7 @@
 title: "Introduction to the Activity"
 module: "Adolescents"
 type: "module-page"
-ordinal: 6
+weight: 6
 depth: 3
 next: "../interview-stakeholders/"
 previous: "../health-services-that-us-adolescents-receive/"
