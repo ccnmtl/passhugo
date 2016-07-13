@@ -5,8 +5,9 @@
 {{ $currentNode := . }}
 {{ $currentNode }}
 
+<div class="clearfix"></div>
 <nav>
-  <ul class="pager">
+  <ul class="pager pager-nav">
     {{ if .Params.previous }}
     <li class="previous"><a href="{{.Params.previous}}"><span aria-hidden="true">&larr;</span> Previous</a></li>
     {{ end }}

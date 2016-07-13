@@ -414,6 +414,27 @@ div.interactive-placeholder {
         transition-timing-function: linear;
         }
 
+/*Previous-Next page navigation ------------------------------------------- */
+
+.pager-nav {
+    margin-top: 40px;
+    padding: 5px 0;
+    border: 0;
+    border-top: 1px dotted #6c0;
+    border-bottom: 1px dotted #6c0;
+}
+
+.pager-nav li>a {
+    border: 1px solid transparent;
+    font-weight: bold;
+}
+
+.pager-nav li>a:hover {
+    text-decoration: none;
+    background-color: #d0e1db;
+    color: #006666  !important;
+}
+
 /* Alignment (custom) ----------------------------------------------------- */
 
 .left {
