@@ -2,7 +2,10 @@
 title: "Feedback"
 module: "Adolescents"
 type: "module-page"
-weight: 12
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 12
 depth: 3
 next: "../conclusion/"
 previous: "../exemplars/"

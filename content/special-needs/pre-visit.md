@@ -2,7 +2,10 @@
 title: "Pre-visit "
 module: "Special Needs"
 type: "module-page"
-weight: 12
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 12
 depth: 4
 next: "../preparing-for-the-first-treatment/"
 previous: "../qa-with-tylers-mom/"

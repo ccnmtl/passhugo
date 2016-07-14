@@ -2,7 +2,10 @@
 title: "Practice Location Report"
 module: "Adolescents"
 type: "module-page"
-weight: 10
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 10
 depth: 3
 next: "../exemplars/"
 previous: "../complete-board-application/"

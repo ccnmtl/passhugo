@@ -2,7 +2,10 @@
 title: "Scenario 2"
 module: "Older Adults"
 type: "module-page"
-weight: 15
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 15
 depth: 4
 next: "../issues-of-concern/"
 previous: "../feedback/"

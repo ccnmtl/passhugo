@@ -2,7 +2,10 @@
 title: "Scenario 1"
 module: "Older Adults"
 type: "module-page"
-weight: 11
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 11
 depth: 4
 next: "../later-on/"
 previous: "../mr-and-mrs-smith/"

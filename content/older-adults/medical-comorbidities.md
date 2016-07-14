@@ -2,7 +2,10 @@
 title: "Medical Comorbidities"
 module: "Older Adults"
 type: "module-page"
-weight: 8
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 8
 depth: 3
 next: "../activity/"
 previous: "../where-you-live-matters/"

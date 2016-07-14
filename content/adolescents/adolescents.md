@@ -2,7 +2,10 @@
 title: "Adolescents"
 module: "Adolescents"
 type: "module-page"
-weight: 1
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 1
 depth: 2
 next: "../introduction/"
 ---

@@ -2,7 +2,10 @@
 title: "Population Overview"
 module: "Young Children"
 type: "module-page"
-weight: 3
+menu:
+  young_children:
+    parent: "young_children"
+    weight: 3
 depth: 3
 next: "../career-planning-activity/"
 previous: "../introduction/"

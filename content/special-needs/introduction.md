@@ -2,7 +2,10 @@
 title: "Introduction"
 module: "Special Needs"
 type: "module-page"
-weight: 2
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 2
 depth: 3
 next: "../defining-the-special-needs-population/"
 ---

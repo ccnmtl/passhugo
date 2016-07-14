@@ -2,7 +2,10 @@
 title: "Later on..."
 module: "Older Adults"
 type: "module-page"
-weight: 12
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 12
 depth: 4
 next: "../advice/"
 previous: "../scenario-1/"

@@ -2,7 +2,10 @@
 title: "Sally's Summary"
 module: "Young Children"
 type: "module-page"
-weight: 8
+menu:
+  young_children:
+    parent: "young_children"
+    weight: 10
 depth: 5
 next: "../your-career/"
 previous: "../advise-sally/"

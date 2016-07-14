@@ -2,7 +2,10 @@
 title: "Rethink Strategy Selection"
 module: "Rural Populations"
 type: "module-page"
-weight: 12
+menu:
+  rural_populations:
+    parent: "rural_populations"
+    weight: 12
 depth: 3
 next: "../dr-carole-pratt/"
 previous: "../pros-cons/"

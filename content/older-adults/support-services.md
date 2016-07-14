@@ -2,7 +2,10 @@
 title: "Explore Support Services"
 module: "Older Adults"
 type: "module-page"
-weight: 17
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 17
 depth: 4
 next: "../meeting-your-uncles-needs/"
 previous: "../issues-of-concern/"

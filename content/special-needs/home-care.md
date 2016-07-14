@@ -2,7 +2,10 @@
 title: "Home Care"
 module: "Special Needs"
 type: "module-page"
-weight: 14
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 14
 depth: 4
 next: "../visit-summary/"
 previous: "../preparing-for-the-first-treatment/"

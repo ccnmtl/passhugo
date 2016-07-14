@@ -2,7 +2,10 @@
 title: "Health issues adolescents face"
 module: "Adolescents"
 type: "module-page"
-weight: 4
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 4
 depth: 3
 next: "../health-services-that-us-adolescents-receive/"
 previous: "../defining-adolescent-populations/"

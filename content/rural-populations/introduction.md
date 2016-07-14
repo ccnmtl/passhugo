@@ -2,7 +2,10 @@
 title: "Introduction"
 module: "Rural Populations"
 type: "module-page"
-weight: 2
+menu:
+  rural_populations:
+    parent: "rural_populations"
+    weight: 2
 depth: 3
 next: "../defining-rural-adults-in-the-united-states/"
 ---

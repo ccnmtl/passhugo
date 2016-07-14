@@ -2,7 +2,10 @@
 title: "Advise Sam"
 module: "Young Children"
 type: "module-page"
-weight: 6
+menu:
+  young_children:
+    parent: "young_children"
+    weight: 6
 depth: 5
 next: "../sams-summary/"
 previous: "../sam/"

@@ -2,7 +2,10 @@
 title: "Feedback"
 module: "Rural Populations"
 type: "module-page"
-weight: 14
+menu:
+  rural_populations:
+    parent: "rural_populations"
+    weight: 14
 depth: 3
 next: "../conclusion/"
 previous: "../dr-carole-pratt/"

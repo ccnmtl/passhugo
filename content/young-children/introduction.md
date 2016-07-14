@@ -2,7 +2,10 @@
 title: "Introduction"
 module: "Young Children"
 type: "module-page"
-weight: 2
+menu:
+  young_children:
+    parent: "young_children"
+    weight: 2
 depth: 3
 next: "../population-overview/"
 ---

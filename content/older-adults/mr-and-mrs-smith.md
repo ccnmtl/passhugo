@@ -2,7 +2,10 @@
 title: "Mr. and Mrs. Smith"
 module: "Older Adults"
 type: "module-page"
-weight: 10
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 10
 depth: 4
 next: "../scenario-1/"
 previous: "../activity/"

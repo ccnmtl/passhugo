@@ -2,7 +2,10 @@
 title: "Conclusion"
 module: "Young Children"
 type: "module-page"
-weight: 7
+menu:
+  young_children:
+    parent: "young_children"
+    weight: 16
 depth: 3
 previous: "../feedback/"
 ---

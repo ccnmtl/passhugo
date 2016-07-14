@@ -2,7 +2,10 @@
 title: "Advice"
 module: "Older Adults"
 type: "module-page"
-weight: 13
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 13
 depth: 4
 next: "../feedback/"
 previous: "../later-on/"

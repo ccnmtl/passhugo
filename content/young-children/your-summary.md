@@ -2,7 +2,10 @@
 title: "Your Summary"
 module: "Young Children"
 type: "module-page"
-weight: 9
+menu:
+  young_children:
+    parent: "young_children"
+    weight: 13
 depth: 5
 next: "../exemplars/"
 previous: "../your-selections/"

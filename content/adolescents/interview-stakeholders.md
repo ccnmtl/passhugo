@@ -2,7 +2,10 @@
 title: "Interview Stakeholders"
 module: "Adolescents"
 type: "module-page"
-weight: 7
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 7
 depth: 3
 next: "../select-practice-location/"
 previous: "../introduction-to-the-activity/"

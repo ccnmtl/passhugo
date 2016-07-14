@@ -2,7 +2,10 @@
 title: "Health services received"
 module: "Adolescents"
 type: "module-page"
-weight: 5
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 5
 depth: 3
 next: "../introduction-to-the-activity/"
 previous: "../what-health-issues-face-us-adolescents/"

@@ -2,7 +2,10 @@
 title: "Public financing of dental healthcare"
 module: "Older Adults"
 type: "module-page"
-weight: 6
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 6
 depth: 3
 next: "../where-you-live-matters/"
 previous: "../access-to-and-utilization-of-dental-services/"

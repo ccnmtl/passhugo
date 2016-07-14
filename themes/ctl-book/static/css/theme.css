@@ -226,11 +226,12 @@ display: none;
     margin-left: 5px;
 }*/
 
+/* Sidenav menu ----------------------------------------------------------- */
+
 .sidenav {
     background-color: transparent;
     z-index: 2000;
     height: 35px;
-    background-color: #ccc;
 }
 
 .col-section-content {
@@ -560,12 +561,35 @@ div.interactive-placeholder {
         padding: 0;
         z-index: 2000;
         position: static;
-        background-color: #ccc;
         width: 195px;
+        background-color: #b6d8db;
     }
     .module-page .content {
         margin-right: -100%;
         margin-left: 195px;
+    }
+    .sidenav .nav a {
+        color: #099;
+    }
+    .sidenav .nav a:visited {
+        color: #066;
+    }
+    .sidenav .nav a:hover
+    {
+        background-color: #a1d4d8;
+    }
+    .sidenav .nav .active,
+    .sidenav .nav .active a:hover
+    {
+        background-color: #3fb0b4;
+    }
+    .sidenav .nav .active a {
+        color: #fff;
+        pointer-events: none;
+        cursor: text;
+    }
+    .sidenav .nav .active a::after { 
+        content: " \00bb";
     }
 }
 
