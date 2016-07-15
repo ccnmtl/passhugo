@@ -2,7 +2,10 @@
 title: "Activity"
 module: "Special Needs"
 type: "module-page"
-ordinal: 9
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 9
 depth: 3
 next: "../meet-tyler/"
 previous: "../financing-of-dental-healthcare/"

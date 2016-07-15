@@ -2,7 +2,10 @@
 title: "Summary"
 module: "Older Adults"
 type: "module-page"
-ordinal: 11
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 21
 depth: 3
 next: "../feedback/"
 previous: "../a-few-years-later/"

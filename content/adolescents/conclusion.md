@@ -2,7 +2,10 @@
 title: "Conclusion"
 module: "Adolescents"
 type: "module-page"
-ordinal: 13
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 13
 depth: 3
 previous: "../feedback/"
 ---

@@ -2,7 +2,10 @@
 title: "Financing of Dental Healthcare"
 module: "Special Needs"
 type: "module-page"
-ordinal: 8
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 8
 depth: 3
 next: "../activity/"
 previous: "../access-and-utilization-of-dental-services/"

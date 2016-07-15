@@ -2,7 +2,10 @@
 title: "General Health Issues"
 module: "Special Needs"
 type: "module-page"
-ordinal: 5
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 5
 depth: 3
 next: "../special-needs-populations-and-oral-health/"
 previous: "../types-of-disabilities/"

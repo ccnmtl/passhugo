@@ -2,7 +2,10 @@
 title: "Feedback"
 module: "Special Needs"
 type: "module-page"
-ordinal: 10
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 16
 depth: 3
 next: "../conclusion/"
 previous: "../visit-summary/"

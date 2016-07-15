@@ -2,7 +2,10 @@
 title: "Your Selections"
 module: "Young Children"
 type: "module-page"
-ordinal: 8
+menu:
+  young_children:
+    parent: "young_children"
+    weight: 12
 depth: 5
 next: "../your-summary/"
 previous: "../your-career/"

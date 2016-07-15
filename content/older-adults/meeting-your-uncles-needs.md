@@ -2,7 +2,10 @@
 title: "Meeting Your Uncle's Needs"
 module: "Older Adults"
 type: "module-page"
-ordinal: 18
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 18
 depth: 4
 next: "../oral-health-considerations/"
 previous: "../support-services/"

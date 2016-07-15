@@ -2,7 +2,10 @@
 title: "Advise Sally"
 module: "Young Children"
 type: "module-page"
-ordinal: 7
+menu:
+  young_children:
+    parent: "young_children"
+    weight: 9
 depth: 5
 next: "../sallys-summary/"
 previous: "../sally/"

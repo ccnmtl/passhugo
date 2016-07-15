@@ -2,7 +2,10 @@
 title: "Q&A with Tyler's mom"
 module: "Special Needs"
 type: "module-page"
-ordinal: 11
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 11
 depth: 4
 next: "../pre-visit/"
 previous: "../meet-tyler/"

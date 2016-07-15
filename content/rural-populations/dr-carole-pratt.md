@@ -2,7 +2,10 @@
 title: "Dr. Carole Pratt"
 module: "Rural Populations"
 type: "module-page"
-ordinal: 13
+menu:
+  rural_populations:
+    parent: "rural_populations"
+    weight: 13
 depth: 3
 next: "../feedback/"
 previous: "../reselect-strategy/"

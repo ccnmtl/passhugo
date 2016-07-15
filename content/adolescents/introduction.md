@@ -2,7 +2,10 @@
 title: "Introduction"
 module: "Adolescents"
 type: "module-page"
-ordinal: 2
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 2
 depth: 3
 next: "../defining-adolescent-populations/"
 ---

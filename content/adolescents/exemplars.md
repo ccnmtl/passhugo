@@ -2,7 +2,10 @@
 title: "Exemplars"
 module: "Adolescents"
 type: "module-page"
-ordinal: 11
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 11
 depth: 3
 next: "../feedback/"
 previous: "../activity-summary/"

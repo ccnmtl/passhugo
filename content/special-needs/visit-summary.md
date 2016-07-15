@@ -2,7 +2,10 @@
 title: "Visit Summary"
 module: "Special Needs"
 type: "module-page"
-ordinal: 15
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 15
 depth: 4
 next: "../feedback/"
 previous: "../home-care/"

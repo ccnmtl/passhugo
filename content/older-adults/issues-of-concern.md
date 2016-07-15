@@ -2,7 +2,10 @@
 title: "Issues of Concern"
 module: "Older Adults"
 type: "module-page"
-ordinal: 16
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 16
 depth: 4
 next: "../support-services/"
 previous: "../scenario-2/"

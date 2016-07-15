@@ -2,7 +2,10 @@
 title: "Activity"
 module: "Rural Populations"
 type: "module-page"
-ordinal: 7
+menu:
+  rural_populations:
+    parent: "rural_populations"
+    weight: 7
 depth: 3
 next: "../review-strategies/"
 previous: "../rural-populations-and-oral-health/"

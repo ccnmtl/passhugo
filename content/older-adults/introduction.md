@@ -2,7 +2,10 @@
 title: "Introduction"
 module: "Older Adults"
 type: "module-page"
-ordinal: 2
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 2
 depth: 3
 next: "../defining-older-adults-in-the-united-states/"
 ---

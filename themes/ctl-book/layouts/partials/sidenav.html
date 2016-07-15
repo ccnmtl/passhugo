@@ -1,0 +1,15 @@
+<!-- sidebar menu start-->
+<div class="col-lg-2 sidenav clearfix">
+    {{ $currentNode := . }}
+    {{ $thisSection := replace .Section "-" "_" }}
+    
+    {{ range (index .Site.Menus $thisSection) }}
+        {{ if .HasChildren }}
+    <ul class="nav">
+        {{ range .Children }}
+        <li{{if $currentNode.IsMenuCurrent $thisSection . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+        {{ end }}
+    </ul>
+        {{end}}
+    {{end}}
+</div>

@@ -2,7 +2,10 @@
 title: "Preparing for the first treatment"
 module: "Special Needs"
 type: "module-page"
-ordinal: 13
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 13
 depth: 4
 next: "../home-care/"
 previous: "../pre-visit/"

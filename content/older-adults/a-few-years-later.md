@@ -2,7 +2,10 @@
 title: "A Few Years Later"
 module: "Older Adults"
 type: "module-page"
-ordinal: 10
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 20
 depth: 3
 next: "../dr-david-albert/"
 previous: "../oral-health-considerations/"

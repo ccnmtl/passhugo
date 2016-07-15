@@ -2,7 +2,10 @@
 title: "Defining Adolescent Populations"
 module: "Adolescents"
 type: "module-page"
-ordinal: 3
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 3
 depth: 3
 next: "../what-health-issues-face-us-adolescents/"
 previous: "../introduction/"

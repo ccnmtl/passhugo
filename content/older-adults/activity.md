@@ -2,7 +2,10 @@
 title: "Activity"
 module: "Older Adults"
 type: "module-page"
-ordinal: 9
+menu:
+  older_adults:
+    parent: "older_adults"
+    weight: 9
 depth: 3
 next: "../mr-and-mrs-smith/"
 previous: "../medical-comorbidities/"

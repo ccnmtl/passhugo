@@ -2,7 +2,10 @@
 title: "Conclusion"
 module: "Special Needs"
 type: "module-page"
-ordinal: 11
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 17
 depth: 3
 previous: "../feedback/"
 ---

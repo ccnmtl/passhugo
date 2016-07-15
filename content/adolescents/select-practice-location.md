@@ -2,7 +2,10 @@
 title: "Select a Practice Location"
 module: "Adolescents"
 type: "module-page"
-ordinal: 8
+menu:
+  adolescents:
+    parent: "adolescents"
+    weight: 8
 depth: 3
 next: "../complete-board-application/"
 previous: "../interview-stakeholders/"

@@ -2,7 +2,10 @@
 title: "Types of Disabilities "
 module: "Special Needs"
 type: "module-page"
-ordinal: 4
+menu:
+  special_needs:
+    parent: "special_needs"
+    weight: 4
 depth: 3
 next: "../general-health-issues/"
 previous: "../defining-the-special-needs-population/"
