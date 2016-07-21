@@ -5,5 +5,9 @@
         <div id="secondary-logo"><img src="{{ .Site.BaseURL }}img/logo-secondary.png" alt="This project is part of the Uncharted Dental Education program" /></div>
     </div>
     <h1 id="page-banner"><span class="sr-only">{{ .Site.Title }}</span></h1>
-    <div id="gradient-teal"></div>
+    <div id="gradient-teal">
+    {{ if .IsPage }}
+    <div class="module-name visible-lg"><h1>{{ .Params.module }}</h1></div>
+    {{ end }}
+    </div>
 </header>

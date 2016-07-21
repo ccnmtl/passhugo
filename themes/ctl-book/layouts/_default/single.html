@@ -9,10 +9,10 @@
 <nav>
   <ul class="pager pager-nav">
     {{ if .Params.previous }}
-    <li class="previous"><a href="{{.Params.previous}}"><span aria-hidden="true">&larr;</span> Previous</a></li>
+    <li class="previous"><a href="{{.Params.previous}}"><span class="sr-only">Go to </span><span aria-hidden="true">&larr;</span> Previous<span class="sr-only"> page</span></a></li>
     {{ end }}
     {{ if .Params.next }}
-    <li class="next"><a href="{{.Params.next}}">Next <span aria-hidden="true">&rarr;</span></a></li>
+    <li class="next"><a href="{{.Params.next}}"><span class="sr-only">Go to </span>Next <span class="sr-only">page</span><span aria-hidden="true">&rarr;</span></a></li>
     {{ end }}
   </ul>
 </nav>
