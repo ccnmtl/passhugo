@@ -38,6 +38,23 @@
    $(document).ready(function(){WindowsSize();}); 
    $(window).resize(function(){WindowsSize();}); 
     });
+
+$(document).ready(function(){
+	$('#toggle-sidenav a').click(function(evt){
+		$('#sidenav-icon').toggleClass('open');
+		$( "#section-list" ).animate({height: 'toggle'},200);
+		return false;
+		evt.stopPropagation();
+	});
+	$('body').click(function(){
+	    if ($('#module-name-toggle').is(":visible")) {
+	    if ($( "#section-list" ).is(":visible")) {
+		$('#sidenav-icon').toggleClass('open');
+		$( "#section-list" ).animate({height: 'toggle'},200);
+		}
+		}
+	});
+});
 </script>
 <script src="{{ .Site.BaseURL }}js/main.js" type="text/javascript" language="javascript"></script>
 
