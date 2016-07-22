@@ -51,14 +51,14 @@ function submitStatePrioritized(elt) {
         'Let’s look at the other choices...</div>';
 
     var lst = jQuery(elt).find('.selection-list');
-    jQuery(lst).prepend(otherConcerns).prepend(yourConcern) 
+    jQuery(lst).prepend(otherConcerns).prepend(yourConcern)
          .removeClass('selection-list').addClass('explanation-list');
-     jQuery(elt).find('input[type=radio]').parent().hide();
-     jQuery(elt).find('.selection-block').removeClass('hidden');
+    jQuery(elt).find('input[type=radio]').parent().hide();
+    jQuery(elt).find('.selection-block').removeClass('hidden');
 
-     var sel = jQuery(elt).find('input[type=radio]:checked').parent().next();
-     jQuery(sel).addClass('highlighted');
-     jQuery(elt).find('.your-choice').after(sel);
+    var sel = jQuery(elt).find('input[type=radio]:checked').parent().next();
+    jQuery(sel).addClass('highlighted');
+    jQuery(elt).find('.your-choice').after(sel);
 }
 
 jQuery(document).ready(function() {
@@ -97,7 +97,7 @@ jQuery(document).ready(function() {
             submitStatePrevisit(elt);
         }
 
-        var elt = jQuery(form).find('.response-prioritized');
+        elt = jQuery(form).find('.response-prioritized');
         if (elt.length > 0) {
             submitStatePrioritized(elt);
         }
