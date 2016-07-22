@@ -19,6 +19,7 @@
     "specialneedsvisit-pack": "^0.1.3",
     "supportservices-pack": "^0.1.2",
     "dentalofficelocation-pack": "^0.1.2",
+    "dentalruralhealth-pack": "^0.1.2",
     "webpack": "^1.13.1"
   },
   "devDependencies": {
