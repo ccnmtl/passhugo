@@ -33,6 +33,34 @@ function isFormComplete(form) {
     return valid;
 }
 
+function submitStatePrevisit(elt) {
+    var yourResponse =
+        '<div class="response-heading">Your response:</div>';
+    jQuery(elt)
+        .find('textarea').attr('disabled', 'disabled')
+        .before(yourResponse);
+
+    jQuery(elt).find('.casesanswerdisplay').show();
+}
+
+function submitStatePrioritized(elt) {
+    var yourConcern =
+        '<div class="your-choice choice-header">Your concern is...</div>';
+    var otherConcerns =
+        '<div class="choice-header">' +
+        'Let’s look at the other choices...</div>';
+
+    var lst = jQuery(elt).find('.selection-list');
+    jQuery(lst).prepend(otherConcerns).prepend(yourConcern)
+         .removeClass('selection-list').addClass('explanation-list');
+    jQuery(elt).find('input[type=radio]').parent().hide();
+    jQuery(elt).find('.selection-block').removeClass('hidden');
+
+    var sel = jQuery(elt).find('input[type=radio]:checked').parent().next();
+    jQuery(sel).addClass('highlighted');
+    jQuery(elt).find('.your-choice').after(sel);
+}
+
 jQuery(document).ready(function() {
     var exitWarning = false;
     var printed = false;
@@ -59,19 +87,27 @@ jQuery(document).ready(function() {
             return false;
         }
 
+        jQuery(form).find('input,select,textarea,.btn-submit-section')
+            .attr('disabled', 'disabled');
+        jQuery('.btn-print').removeClass('hidden');
+
         // based on quiz type, show/hide various bits
-        if (jQuery('.mod5-previsit').length > 0) {
-            var yourResponse =
-                '<div class="response-heading">Your response:</div>';
-            jQuery('.mod5-previsit')
-                .find('textarea').attr('disabled', 'disabled')
-                .before(yourResponse);
+        var elt = jQuery(form).find('.mod5-previsit');
+        if (elt.length > 0) {
+            submitStatePrevisit(elt);
+        }
 
-            jQuery('.btn-submit-section').attr('disabled', 'disabled');
+        elt = jQuery(form).find('.response-prioritized');
+        if (elt.length > 0) {
+            submitStatePrioritized(elt);
+        }
+    });
 
-            jQuery('.mod5-previsit').find('.casesanswerdisplay').show();
-
-            jQuery('.btn-print').removeClass('hidden');
+    jQuery(window).on('beforeunload', function() {
+        var btn = jQuery('.btn-submit-section');
+        if (btn.length > 0 && jQuery(btn).attr('disabled') !== 'disabled') {
+            return 'The activity is not complete. ' +
+                'Your progress will not be saved if you leave this page.';
         }
     });
 
