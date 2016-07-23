@@ -10,4 +10,3 @@ depth: 3
 next: "../activity-summary/"
 previous: "../select-practice-location/"
 ---
-<form method="post" action="."></form>

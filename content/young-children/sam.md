@@ -30,7 +30,7 @@ previous: "../career-planning-activity/"
   
 
 
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Most important factor:</p></div></div></div><form id="form-22" method="post"><select name="pageblock-44-question22"><option value="-----"
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Most important factor:</p></div></div></div><select name="pageblock-44-question22"><option value="-----"
     >-----</option><option value="Work area (urban, suburban, or rural)"
     >Work area (urban, suburban, or rural)</option><option value="Patient population’s socioeconomic status"
     >Patient population’s socioeconomic status</option><option value="Personal debt to repay"
@@ -41,12 +41,12 @@ previous: "../career-planning-activity/"
     >School system or other family related obligations</option><option value="Available leisure and cultural activities"
     >Available leisure and cultural activities</option><option value="Length of commute or availability of reliable transportation"
     >Length of commute or availability of reliable transportation</option><option value="Patient population is diverse"
-    >Patient population is diverse</option></select></form></div></div></div>
+    >Patient population is diverse</option></select></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Next important factor:</p></div></div></div><form id="form-26" method="post"><select name="pageblock-44-question26"><option value="-----"
+<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Next important factor:</p></div></div></div><select name="pageblock-44-question26"><option value="-----"
     >-----</option><option value="Work area (urban, suburban, or rural)"
     >Work area (urban, suburban, or rural)</option><option value="Personal debt to repay"
     >Personal debt to repay</option><option value="A need for dentists based on population size or level of disease"
@@ -57,12 +57,12 @@ previous: "../career-planning-activity/"
     >Available leisure and cultural activities</option><option value="Length of commute or availability of reliable transportation"
     >Length of commute or availability of reliable transportation</option><option value="Patient population is diverse"
     >Patient population is diverse</option><option value="Patient population’s socioeconomic status"
-    >Patient population’s socioeconomic status</option></select></form></div></div></div>
+    >Patient population’s socioeconomic status</option></select></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Third important factor:</p></div></div></div><form id="form-27" method="post"><select name="pageblock-44-question27"><option value="-----"
+<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><div class='question-sub'><p>Third important factor:</p></div></div></div><select name="pageblock-44-question27"><option value="-----"
     >-----</option><option value="Work area (urban, suburban, or rural)"
     >Work area (urban, suburban, or rural)</option><option value="Personal debt to repay"
     >Personal debt to repay</option><option value="A need for dentists based on population size or level of disease"
@@ -73,7 +73,7 @@ previous: "../career-planning-activity/"
     >Available leisure and cultural activities</option><option value="Length of commute or availability of reliable transportation"
     >Length of commute or availability of reliable transportation</option><option value="Patient population is diverse"
     >Patient population is diverse</option><option value="Patient population’s socioeconomic status"
-    >Patient population’s socioeconomic status</option></select></form></div></div></div>
+    >Patient population’s socioeconomic status</option></select></div></div></div>
 
 
 

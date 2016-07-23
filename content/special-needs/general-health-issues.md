@@ -10,7 +10,7 @@ depth: 3
 next: "../special-needs-populations-and-oral-health/"
 previous: "../types-of-disabilities/"
 ---
-<form method="post" action="."><div class="pageblock right img-polaroid img-rounded">
+<div class="pageblock right img-polaroid img-rounded">
 <div class="caption">
 </div>{{< figure src="/img/assets/istock_000014130137m.jpg" alt="" class="" >}}</div><div class="pageblock"><p>The National Council on Disabilities, an independent federal agency, put forth a report in September 2009 outlining the following key points regarding health care for persons with disabilities:</p>
 <ul>
@@ -37,4 +37,4 @@ previous: "../types-of-disabilities/"
 <li>Physical inactivity is prevalent among adults with a disability</li>
 </ul>
 <p>These findings suggest a disparity in access to effective health promotion strategies and prevention programs for persons with a disability.</p>
-</div></form>
+</div>

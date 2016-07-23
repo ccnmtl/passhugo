@@ -10,7 +10,7 @@ depth: 3
 next: "../access-to-and-utilization-of-dental-services/"
 previous: "../defining-older-adults-in-the-united-states/"
 ---
-<form method="post" action="."><div class="pageblock"><p>Primarily due to improved preventive measures, US adults are retaining their teeth in increasingly large numbers. Although gains in dentate status represent an improvement in oral health and healthcare across the lifespan, tooth retention also represents a challenge - as the proportion of older adults who are retaining their teeth increases - so too does the prevalence of oral diseases.</p>
+<div class="pageblock"><p>Primarily due to improved preventive measures, US adults are retaining their teeth in increasingly large numbers. Although gains in dentate status represent an improvement in oral health and healthcare across the lifespan, tooth retention also represents a challenge - as the proportion of older adults who are retaining their teeth increases - so too does the prevalence of oral diseases.</p>
 <table>
 <th colspan="7">Prevalence of periodontitis in adults in the United States: 2009 and 2010</th>
 <tr>
@@ -141,4 +141,4 @@ previous: "../defining-older-adults-in-the-united-states/"
 </table>
 <p>A number of reasons for low levels of utilization have been suggested - insurance status, cost of care, functional and cognitive limitations, transportation problems, fear, and an untrained workforce make access to dental services difficult.</p>
 <p>In addition to the very real challenges posed by cost and transportation, perceived need and demand for dental services is low in the elderly. Acceptance of dental dysfunction as a natural consequence of aging appears to be a predominant reason for low rates of utilization, which are highly correlated with dentate status. Edentulous elderly report lower perceived need and rates of utilization than dentate elderly, and data suggest that self-reported perceived need and objective measures of oral health are not correlated, implying the need for interventions designed to underscore signs and symptoms of oral diseases and the importance of seeking dental care.</p>
-</div></form>
+</div>

@@ -10,7 +10,7 @@ depth: 3
 next: "../where-you-live-matters/"
 previous: "../access-to-and-utilization-of-dental-services/"
 ---
-<form method="post" action="."><div class="pageblock right img-polaroid img-rounded">
+<div class="pageblock right img-polaroid img-rounded">
 <div class="caption">
 </div>{{< figure src="/img/assets/14438951806_7899cd78.jpg" alt="" class="" >}}</div><div class="pageblock"><p>Not only does lack of dental coverage affect oral healthcare delivery at the professional level, but daily and personal care are also complicated since there is no specific funding for oral care aides such as toothbrushes and toothpaste. Further, efforts to educate the elderly about the importance of oral health are complicated by the fact that delivery of professional care, if needed, cannot be guaranteed. </p>
 </div><div class="pageblock large-pullquote">
@@ -22,4 +22,4 @@ previous: "../access-to-and-utilization-of-dental-services/"
 <p>Title XVII of the Social Security Act, designated "Health Insurance for the Aged and Disabled" is most commonly known as Medicare. When first implemented in 1966, this federal program was designed to cover persons aged 65 and older; today it also covers individuals with end-stage renal disease, and people entitled to Social Security or Railroad Retirement disability cash benefits. Medicare does not cover preventive or restorative dental services, and only covers services that are deemed "medically necessary."</p>
 <h5>Medicaid</h5>
 <p>Medicaid is a joint Federal/State entitlement program that provides medical assistance for individuals and families with low income. This program, which was implemented in 1965, is jointly funded by the Federal and State governments. Within broad national guidelines, each state administers its own program by establishing eligibility standards, determining the type and scope of services and setting the rate of payments for services. As a result of the Federal/State partnership, dental benefits are not standard across the country. While most states provide dental care for low income children, services for adults are limited, making it difficult for those individuals most at risk for dental disease – disadvantaged older adults –  to access dental services.</p>
-</div></form>
+</div>

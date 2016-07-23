@@ -10,7 +10,7 @@ depth: 3
 next: "../access-and-utilization-of-dental-services/"
 previous: "../general-health-issues/"
 ---
-<form method="post" action="."><div class="pageblock"><p>Among persons with disabilities access to oral care can be challenging for the individual, their guardian and/or caregiver. The prevalence of having visited a dentist in the past year among adults with disabilities is 60.3% as compared to 70.6% among non-disabled individuals. Interactive data maps for dental visits and dental cleanings are available for viewing in the <a href="http://dhds.cdc.gov/dataviews/view?viewId=784" target="_blank">Disability and Health Data System</a>.</p>
+<div class="pageblock"><p>Among persons with disabilities access to oral care can be challenging for the individual, their guardian and/or caregiver. The prevalence of having visited a dentist in the past year among adults with disabilities is 60.3% as compared to 70.6% among non-disabled individuals. Interactive data maps for dental visits and dental cleanings are available for viewing in the <a href="http://dhds.cdc.gov/dataviews/view?viewId=784" target="_blank">Disability and Health Data System</a>.</p>
 <p>Oral conditions often seen in persons with disabilities include:</p>
 <ul>
 <li>dental caries</li>
@@ -36,4 +36,4 @@ previous: "../general-health-issues/"
 <li>comorbid medical diagnoses such as gastroesophageal reflux disease (GERD) and bulimia</li>
 <li>limited coverage provided through federal and state health insurance entities</li>
 </ul>
-</div></form>
+</div>

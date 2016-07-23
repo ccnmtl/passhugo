@@ -10,7 +10,7 @@ depth: 3
 next: "../activity/"
 previous: "../where-you-live-matters/"
 ---
-<form method="post" action="."><div class="pageblock large-pullquote">
+<div class="pageblock large-pullquote">
 <div class="pullquote"><p>Almost every patient is on a cholesterol medication like Lipitor. They're on a medication for diabetes, which could be a oral medication or insulin, and those have impacts on what type of dental care were providing. And cardiovascular, they'll have hypertension, hopefully well controlled but sometimes not. And those are important things for us to take into account so we can provide them optimal dental services. In addition, what is quite common in an older old population is anxiety and depression. And frequently it's diagnosed incorrectly and the patients are given anti anxiety medications. And those are things that we deal with on a regular basis in  our practice in integrating what we're doing with their physicians as well."<br />
 ~ Dr. David Albert</p></div>
 </div><div class="pageblock"><h3>Systemic Disease and Oral Health Chart</h3>
@@ -81,4 +81,4 @@ Head and neck radiation, chemotherapy, and blood and marrow transplantation can 
 <td>Because oral cancer diagnosed in the early stages is much easier to treat than cancer that has spread to other parts of the body, it is important for older people, regardless of whether they have teeth, to visit the dentist every six months for an oral cancer screening examination. This exam should take place during the semiannual teeth cleaning/dental checkup appointment.</td>
 </tr>
 </table>
-</div></form>
+</div>

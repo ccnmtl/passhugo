@@ -9,7 +9,7 @@ menu:
 depth: 3
 next: "../population-overview/"
 ---
-<form method="post" action="."><div class="pageblock"><p>Dental students (like yourself) — even those who may be interested in serving vulnerable populations — often graduate with little "how to" knowledge needed to effectively shape their careers with consideration of the needs the underserved, especially young children.</p>
+<div class="pageblock"><p>Dental students (like yourself) — even those who may be interested in serving vulnerable populations — often graduate with little "how to" knowledge needed to effectively shape their careers with consideration of the needs the underserved, especially young children.</p>
 </div><h3>In this module you will have the opportunity to:</h3><div class="pageblock"><div class="bullets-ol">
 <ol>
 <li><strong>Explore</strong> the full spectrum of dental careers available to you including careers in community health centers, dental academics, oral health advocacy, dental public health, and innovative private practice settings</li>
@@ -21,4 +21,4 @@ next: "../population-overview/"
 <p>Let’s first start by learning a little about the young child population in the United States.</p>
 </div>
 <div class="center text-center">{{< figure src="/img/assets/kidswalking-crop.jpg" alt="" class="" >}}</div>
-</div></form>
+</div>

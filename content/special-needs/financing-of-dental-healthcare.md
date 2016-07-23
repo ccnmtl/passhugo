@@ -10,7 +10,7 @@ depth: 3
 next: "../activity/"
 previous: "../access-and-utilization-of-dental-services/"
 ---
-<form method="post" action="."><div class="pageblock"><p>Dental care for persons with special needs is financed through a variety of mechanisms including:</p>
+<div class="pageblock"><p>Dental care for persons with special needs is financed through a variety of mechanisms including:</p>
 <ul>
 <li>private insurances</li>
 <li>fee-for-service</li>
@@ -42,4 +42,4 @@ previous: "../access-and-utilization-of-dental-services/"
 </ul>
 </div><div class="pageblock"><h3>Children's Health Insurance Program (CHIP)</h3>
 <p>CHIP is a Medicaid expansion program required to provide the Early and Periodic Screening, Diagnostic, and Treatment benefits (EPSDT).</p>
-</div></form>
+</div>

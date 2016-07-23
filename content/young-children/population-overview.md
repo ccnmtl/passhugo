@@ -10,7 +10,7 @@ depth: 3
 next: "../career-planning-activity/"
 previous: "../introduction/"
 ---
-<form method="post" action="."><h3>Who are the children of the US?</h3><div class="pageblock"><div class="maintext">
+<h3>Who are the children of the US?</h3><div class="pageblock"><div class="maintext">
 <div class="right">{{< figure src="/img/assets/graph_childrenUS2.png" alt="" class="" >}}</div>
 <p>Children are a significant part of the US population. In 2007, there were approximately 73.9 million children in the US aged 0-17 years. The National Center for Health Statistics reported in July 2008 that this number is up 1.5 million from 2000 and is projected to be about 80 million by 2020 and 87.8 million by 2030. This represents the highest number of births at any time, even at the peak of the baby boom in the late 1950s.</p>
 <p>Racial and ethnic diversity among children has grown dramatically in the United States.</p>
@@ -33,4 +33,4 @@ previous: "../introduction/"
 <p>Paradoxically, these same children with the least number of dental visits are the same populations who are at higher risk to untreated tooth decay and dental pain!</p>
 <br/>
 </div>
-</div></form>
+</div>

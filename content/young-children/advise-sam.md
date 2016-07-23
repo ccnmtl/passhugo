@@ -21,7 +21,7 @@ previous: "../sam/"
   
 
 
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sam would like to work with young children. Which zip code should he consider?</p></div></div><form id="form-87" method="post"><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question87" value="10033"
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sam would like to work with young children. Which zip code should he consider?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question87" value="10033"
                            type="radio">
                     10033
                 </label></li><li class=""><label><input name="question87" value="10041"
@@ -33,12 +33,12 @@ previous: "../sam/"
                 </label></li><li class=""><label><input name="question87" value="10037"
                            type="radio">
                     10037
-                </label></li></ol></form></div><div class="casesanswerdisplay"><a href="#q87" class="moretoggle">Show answer &gt;&gt;</a><div id="q87" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
+                </label></li></ol></div><div class="casesanswerdisplay"><a href="#q87" class="moretoggle">Show answer &gt;&gt;</a><div id="q87" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sam and his wife have one car. They would like to have access to public transportation. What county should he consider?</p></div></div><form id="form-88" method="post"><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question88" value="Springdale County"
+<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sam and his wife have one car. They would like to have access to public transportation. What county should he consider?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question88" value="Springdale County"
                            type="radio">
                     Springdale County
                 </label></li><li class=""><label><input name="question88" value="Duane County"
@@ -50,12 +50,12 @@ previous: "../sam/"
                 </label></li><li class=""><label><input name="question88" value="Annenburg County"
                            type="radio">
                     Annenburg County
-                </label></li></ol></form></div><div class="casesanswerdisplay"><a href="#q88" class="moretoggle">Show answer &gt;&gt;</a><div id="q88" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
+                </label></li></ol></div><div class="casesanswerdisplay"><a href="#q88" class="moretoggle">Show answer &gt;&gt;</a><div id="q88" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sam is fluent in Spanish. Based on this fact alone, which county should he consider?</p></div></div><form id="form-90" method="post"><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question90" value="Springdale County"
+<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Sam is fluent in Spanish. Based on this fact alone, which county should he consider?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question90" value="Springdale County"
                            type="radio">
                     Springdale County
                 </label></li><li class=""><label><input name="question90" value="Duane County"
@@ -67,12 +67,12 @@ previous: "../sam/"
                 </label></li><li class=""><label><input name="question90" value="Annenburg County"
                            type="radio">
                     Annenburg County
-                </label></li></ol></form></div><div class="casesanswerdisplay"><a href="#q90" class="moretoggle">Show answer &gt;&gt;</a><div id="q90" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
+                </label></li></ol></div><div class="casesanswerdisplay"><a href="#q90" class="moretoggle">Show answer &gt;&gt;</a><div id="q90" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 4:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Now spend some time to further explore North Oralington using the interactive map. Based on Sam's summary and your investigation, where would you recommend Sam to set up or join a practice? Please use the map to select a zip code.</p></div></div><form id="form-91" method="post"><select name="pageblock-126-question91"><option value="-----"
+<div class="cases"><div class="casetitle">Question 4:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Now spend some time to further explore North Oralington using the interactive map. Based on Sam's summary and your investigation, where would you recommend Sam to set up or join a practice? Please use the map to select a zip code.</p></div></div><select name="pageblock-126-question91"><option value="-----"
     >-----</option><option value="10001"
     >10001</option><option value="10002"
     >10002</option><option value="10003"
@@ -122,7 +122,7 @@ previous: "../sam/"
     >10046</option><option value="10047"
     >10047</option><option value="10048"
     >10048</option><option value="10049"
-    >10049</option></select></form></div></div></div>
+    >10049</option></select></div></div></div>
 
   
 

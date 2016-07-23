@@ -10,4 +10,3 @@ depth: 3
 next: "../pros-cons/"
 previous: "../select-strategy/"
 ---
-<form method="post" action="."></form>

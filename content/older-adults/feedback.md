@@ -21,7 +21,7 @@ previous: "../dr-david-albert/"
   
 
 
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>How likely are you to recommend the module to colleagues?</p></div></div><form id="form-136" method="post"><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question136" value="Very likely"
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>How likely are you to recommend the module to colleagues?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question136" value="Very likely"
                            type="radio">
                     Very likely
                 </label></li><li class=""><label><input name="question136" value="Likely"
@@ -33,7 +33,7 @@ previous: "../dr-david-albert/"
                 </label></li><li class=""><label><input name="question136" value="Not at all likely"
                            type="radio">
                     Not at all likely
-                </label></li></ol></form></div><div class="casesanswerdisplay"><a href="#q136" class="moretoggle">Show answer &gt;&gt;</a><div id="q136" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
+                </label></li></ol></div><div class="casesanswerdisplay"><a href="#q136" class="moretoggle">Show answer &gt;&gt;</a><div id="q136" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
 
   
 
@@ -58,63 +58,63 @@ previous: "../dr-david-albert/"
   
 
 
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The information was well organized.</p></div></div><form id="form-138" method="post"><select name="pageblock-277-question138"><option value="-----"
+<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The information was well organized.</p></div></div><select name="pageblock-277-question138"><option value="-----"
     >-----</option><option value="1. Strongly agree"
     >1. Strongly agree</option><option value="2. Agree"
     >2. Agree</option><option value="3. Disagree"
     >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></form></div></div></div>
+    >4. Strongly disagree</option></select></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>There was just the right amount of information.</p></div></div><form id="form-139" method="post"><select name="pageblock-277-question139"><option value="-----"
+<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>There was just the right amount of information.</p></div></div><select name="pageblock-277-question139"><option value="-----"
     >-----</option><option value="1. Strongly agree"
     >1. Strongly agree</option><option value="2. Agree"
     >2. Agree</option><option value="3. Disagree"
     >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></form></div></div></div>
+    >4. Strongly disagree</option></select></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The videos were engaging.</p></div></div><form id="form-140" method="post"><select name="pageblock-277-question140"><option value="-----"
+<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The videos were engaging.</p></div></div><select name="pageblock-277-question140"><option value="-----"
     >-----</option><option value="1. Strongly agree"
     >1. Strongly agree</option><option value="2. Agree"
     >2. Agree</option><option value="3. Disagree"
     >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></form></div></div></div>
+    >4. Strongly disagree</option></select></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 4:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The pages/videos took a long time to load.</p></div></div><form id="form-141" method="post"><select name="pageblock-277-question141"><option value="-----"
+<div class="cases"><div class="casetitle">Question 4:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The pages/videos took a long time to load.</p></div></div><select name="pageblock-277-question141"><option value="-----"
     >-----</option><option value="1. Strongly agree"
     >1. Strongly agree</option><option value="2. Agree"
     >2. Agree</option><option value="3. Disagree"
     >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></form></div></div></div>
+    >4. Strongly disagree</option></select></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 5:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>It was easy to navigate the website.</p></div></div><form id="form-142" method="post"><select name="pageblock-277-question142"><option value="-----"
+<div class="cases"><div class="casetitle">Question 5:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>It was easy to navigate the website.</p></div></div><select name="pageblock-277-question142"><option value="-----"
     >-----</option><option value="1. Strongly agree"
     >1. Strongly agree</option><option value="2. Agree"
     >2. Agree</option><option value="3. Disagree"
     >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></form></div></div></div>
+    >4. Strongly disagree</option></select></div></div></div>
 
   
 
 
-<div class="cases"><div class="casetitle">Question 6:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Did the material presented in this module help you recognize the importance of considering population context as you develop your career path?</p></div></div><form id="form-143" method="post"><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question143" value="Yes"
+<div class="cases"><div class="casetitle">Question 6:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Did the material presented in this module help you recognize the importance of considering population context as you develop your career path?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question143" value="Yes"
                            type="radio">
                     Yes
                 </label></li><li class=""><label><input name="question143" value="No"
                            type="radio">
                     No
-                </label></li></ol></form></div><div class="casesanswerdisplay"><a href="#q143" class="moretoggle">Show answer &gt;&gt;</a><div id="q143" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
+                </label></li></ol></div><div class="casesanswerdisplay"><a href="#q143" class="moretoggle">Show answer &gt;&gt;</a><div id="q143" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
 
   
 

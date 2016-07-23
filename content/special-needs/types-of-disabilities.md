@@ -10,7 +10,7 @@ depth: 3
 next: "../general-health-issues/"
 previous: "../defining-the-special-needs-population/"
 ---
-<form method="post" action="."><div class="pageblock"><p>With the understanding that there are many more developmental disabilities that begin early in life, the most common are listed below:</p>
+<div class="pageblock"><p>With the understanding that there are many more developmental disabilities that begin early in life, the most common are listed below:</p>
 <h3>Attention deficit/Hyperactivity disorder (ADHD):</h3>
 <ul>
 <li>ADHD is one of the most common neurodevelopmental disorders of childhood.</li>
@@ -124,4 +124,4 @@ previous: "../defining-the-special-needs-population/"
 <li>Chemical dependency</li>
 </ul>
 <p>It is important to note however, the categories mentioned above are not mutually exclusive. Depending on the illness several developmental disabilities may also be seen in persons with acquired disabilities such as cognitive impairment, hearing and visual deficits. </p>
-</div></form>
+</div>

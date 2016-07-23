@@ -10,7 +10,7 @@ depth: 3
 next: "../financing-of-dental-healthcare/"
 previous: "../special-needs-populations-and-oral-health/"
 ---
-<form method="post" action="."><div class="pageblock"><h3>Challenges to utilization of dental services for the person with special needs</h3>
+<div class="pageblock"><h3>Challenges to utilization of dental services for the person with special needs</h3>
 <ul>
 <li>Finances </li>
 <li>Limited number of providers who accept Medicaid participants</li>
@@ -57,4 +57,4 @@ previous: "../special-needs-populations-and-oral-health/"
 </ul>
 </div><div class="pageblock"><p><strong>Group home setting</strong> </p>
 <p>After the deinstitutionalization of facilities for persons with special needs many disabled persons moved into community based group homes. While many homes provide a loving and nurturing environment with a stable staff who knows their clients well, others do not. Continuity of care, medical history, home care instructions, prevention plans, etc. may not be followed as there may be no single point of contact available for follow through. </p>
-</div></form>
+</div>
