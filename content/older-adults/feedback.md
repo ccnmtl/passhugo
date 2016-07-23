@@ -1,135 +1,16 @@
 ---
-title: "Feedback"
+title: "Recommendations for Overall Health"
 module: "Older Adults"
 type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 22
-depth: 3
-next: "../conclusion/"
-previous: "../dr-david-albert/"
+    weight: 12
+depth: 4
+next: "../scenario-2/"
+previous: "../advice/"
 ---
-<form method="post" action="."><div class="pageblock hide-feedback">
-
-
-
-
-
-
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>How likely are you to recommend the module to colleagues?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question136" value="Very likely"
-                           type="radio">
-                    Very likely
-                </label></li><li class=""><label><input name="question136" value="Likely"
-                           type="radio">
-                    Likely
-                </label></li><li class=""><label><input name="question136" value="Not likely"
-                           type="radio">
-                    Not likely
-                </label></li><li class=""><label><input name="question136" value="Not at all likely"
-                           type="radio">
-                    Not at all likely
-                </label></li></ol></div><div class="casesanswerdisplay"><a href="#q136" class="moretoggle">Show answer &gt;&gt;</a><div id="q136" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Please explain your answer.</p></div></div><textarea rows="10" name="question137" class="form-control"></textarea></div></div></div>
-
-
-
-  <script src="/media/quizblock/js/quizshow.js"></script>
-
-
-
-</div><h3>Please describe your experience using the module:</h3><div class="pageblock">
-</div><div class="pageblock hide-feedback">
-
-
-
-
-
-
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The information was well organized.</p></div></div><select name="pageblock-277-question138"><option value="-----"
-    >-----</option><option value="1. Strongly agree"
-    >1. Strongly agree</option><option value="2. Agree"
-    >2. Agree</option><option value="3. Disagree"
-    >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></div></div></div>
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 2:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>There was just the right amount of information.</p></div></div><select name="pageblock-277-question139"><option value="-----"
-    >-----</option><option value="1. Strongly agree"
-    >1. Strongly agree</option><option value="2. Agree"
-    >2. Agree</option><option value="3. Disagree"
-    >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></div></div></div>
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 3:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The videos were engaging.</p></div></div><select name="pageblock-277-question140"><option value="-----"
-    >-----</option><option value="1. Strongly agree"
-    >1. Strongly agree</option><option value="2. Agree"
-    >2. Agree</option><option value="3. Disagree"
-    >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></div></div></div>
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 4:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>The pages/videos took a long time to load.</p></div></div><select name="pageblock-277-question141"><option value="-----"
-    >-----</option><option value="1. Strongly agree"
-    >1. Strongly agree</option><option value="2. Agree"
-    >2. Agree</option><option value="3. Disagree"
-    >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></div></div></div>
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 5:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>It was easy to navigate the website.</p></div></div><select name="pageblock-277-question142"><option value="-----"
-    >-----</option><option value="1. Strongly agree"
-    >1. Strongly agree</option><option value="2. Agree"
-    >2. Agree</option><option value="3. Disagree"
-    >3. Disagree</option><option value="4. Strongly disagree"
-    >4. Strongly disagree</option></select></div></div></div>
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 6:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>Did the material presented in this module help you recognize the importance of considering population context as you develop your career path?</p></div></div><ol class="caseanswercontainer" type="A"><li class=""><label><input name="question143" value="Yes"
-                           type="radio">
-                    Yes
-                </label></li><li class=""><label><input name="question143" value="No"
-                           type="radio">
-                    No
-                </label></li></ol></div><div class="casesanswerdisplay"><a href="#q143" class="moretoggle">Show answer &gt;&gt;</a><div id="q143" class="toggleable" style="display: none"><p><i>The correct answer is A:</i><div class="casequestionexplanation"></div></p></div></div></div></div>
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 7:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>How did it/didn't it help you?</p></div></div><textarea rows="10" name="question144" class="form-control"></textarea></div></div></div>
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 8:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>We value your opinion and feedback. Please make any suggestions for how the module can be improved.</p></div></div><textarea rows="10" name="question145" class="form-control"></textarea></div></div></div>
-
-
-
-  <script src="/media/quizblock/js/quizshow.js"></script>
-
-
-
-</div><div class="submit-container"><input class="btn btn-info btn-submit-section" type="submit" value="Submit" /></div></form>
+<div class="pageblock"><p><b>Glucose control:</b> It is important for your Aunt to monitor her blood glucose as suggested by her doctor and to try to maintain normal blood glucose control.  Not only are people with diabetes more susceptible to serious gum disease, but serious gum disease may have the potential to affect blood glucose control and contribute to the progression of diabetes. Research suggests that people with diabetes are at higher risk for oral health problems, such as gingivitis (an early stage of gum disease) and periodontitis (serious gum disease). People with diabetes are at an increased risk for serious gum disease because they are generally more susceptible to bacterial infection, and have a decreased ability to fight bacteria that invade the gums.</p>
+<p><b>Oral hygiene:</b> You Aunt may be having difficulty with maintaining oral hygiene because of her arthritis.  Seniors who have trouble with manual dexterity from arthritis or another condition can use floss holders or interproximal (between-the-teeth) cleaners, which are available at most drugstores and supermarkets. Toothbrush handles may be modified by wrapping a washcloth around the handle and securing it with an elastic band. This will make the handle thicker and easier to hold. Some companies also sell thicker-handled toothbrushes.</p>
+<p><b>Xerostomia:</b> Your Aunt may be experiencing dry mouth from medications that she is taking. Sugar free gum, sugar free candy and drinking water are recommended to help combat dry mouth.  You can also recommend the use of commercially available saliva substitutes, which can moisten the mouth.  Also, ensure adequate fluoride through the use of toothpastes, rinses or gels.</p>
+</div>

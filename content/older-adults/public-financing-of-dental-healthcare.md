@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 6
+    weight: 4
 depth: 3
 next: "../where-you-live-matters/"
 previous: "../access-to-and-utilization-of-dental-services/"

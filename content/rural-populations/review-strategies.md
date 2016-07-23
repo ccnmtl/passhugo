@@ -5,8 +5,9 @@ type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 8
+    weight: 6
 depth: 3
-next: "../select-strategy/"
+next: "../dr-carole-pratt/"
 previous: "../activity/"
 ---
+{{< interactives url="ruralhealth" width="900px" height="800px" >}}

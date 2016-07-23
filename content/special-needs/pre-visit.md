@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 12
+    weight: 10
 depth: 4
 next: "../preparing-for-the-first-treatment/"
 previous: "../qa-with-tylers-mom/"

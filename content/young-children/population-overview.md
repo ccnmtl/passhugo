@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   young_children:
     parent: "young_children"
-    weight: 3
+    weight: 1
 depth: 3
 next: "../career-planning-activity/"
 previous: "../introduction/"

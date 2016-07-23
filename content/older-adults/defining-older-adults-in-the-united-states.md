@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 3
+    weight: 1
 depth: 3
 next: "../older-adults-and-their-oral-health/"
 previous: "../introduction/"

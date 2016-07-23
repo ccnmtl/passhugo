@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 9
+    weight: 7
 depth: 3
 next: "../meet-tyler/"
 previous: "../financing-of-dental-healthcare/"

@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   adolescents:
     parent: "adolescents"
-    weight: 2
+    weight: 0
 depth: 3
 next: "../defining-adolescent-populations/"
 ---

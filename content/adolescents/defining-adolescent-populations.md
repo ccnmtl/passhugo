@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   adolescents:
     parent: "adolescents"
-    weight: 3
+    weight: 1
 depth: 3
 next: "../what-health-issues-face-us-adolescents/"
 previous: "../introduction/"

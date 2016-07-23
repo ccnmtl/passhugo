@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 7
+    weight: 5
 depth: 3
 next: "../financing-of-dental-healthcare/"
 previous: "../special-needs-populations-and-oral-health/"

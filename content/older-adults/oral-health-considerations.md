@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 19
+    weight: 17
 depth: 4
 next: "../a-few-years-later/"
 previous: "../meeting-your-uncles-needs/"

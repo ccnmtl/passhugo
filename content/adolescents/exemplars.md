@@ -5,10 +5,10 @@ type: "module-page"
 menu:
   adolescents:
     parent: "adolescents"
-    weight: 11
+    weight: 6
 depth: 3
-next: "../feedback/"
-previous: "../activity-summary/"
+next: "../conclusion/"
+previous: "../interview-stakeholders/"
 ---
 <h3>Dr. Courtney Chinn</h3><div class="pageblock"><p class="p1">Dr. Chinn works full time as an assistant professor at Columbia University College of Dental Medicine. He was hired as a part-time dental consultant to set up and manage a dental program at an adolescent health clinic in lower Manhattan. Learn about his experience working with underserved adolescent populations.</p>
 </div><div class="pageblock">

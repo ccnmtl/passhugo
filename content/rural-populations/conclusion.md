@@ -5,9 +5,9 @@ type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 15
+    weight: 8
 depth: 3
-previous: "../feedback/"
+previous: "../dr-carole-pratt/"
 ---
 <h3>Congratulations!</h3><div class="pageblock"><p>You have successfully completed Module 3 of Uncharted: a Population-based Approach to Patient Service and Professional Success - Providing Primary Dental Care for Rural Populations.</p>
 </div><h3>Certificate</h3><div class="pageblock"><div class="maintext">

@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 18
+    weight: 16
 depth: 4
 next: "../oral-health-considerations/"
 previous: "../support-services/"

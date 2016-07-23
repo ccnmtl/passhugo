@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 2
+    weight: 0
 depth: 3
 next: "../defining-the-special-needs-population/"
 ---
