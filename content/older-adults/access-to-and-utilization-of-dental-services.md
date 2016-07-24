@@ -10,7 +10,7 @@ depth: 3
 next: "../public-financing-of-dental-healthcare/"
 previous: "../older-adults-and-their-oral-health/"
 ---
-<form method="post" action="."><div class="pageblock right img-polaroid img-rounded">
+<div class="pageblock right img-polaroid img-rounded">
 <div class="caption">
 </div>{{< figure src="/img/assets/14438950756_13244267.jpg" alt="" class="" >}}</div><div class="pageblock"><p>National data indicate that a greater number of older adults are using dental services than ever before, and that they have made the greatest proportional increase in utilization of dental services than any other age cohort. According to data from the 2000 Medical Expenditure Survey (MEPS), more than 14 million non-institutionalized older adults visited a dental provider in the previous year, reporting an average of 2.8 visits per year. Despite the dramatic increases in dental services utilization seen over the past five decades, less than 56% of the elderly report using dental services at least once in the past year, and disparities in use of professional dental care persist. Predictors of dental care utilization in adults over the age of 65 include race and ethnicity, dentate status, education, age, income and dental insurance.</p>
 <h5>Race and Ethnicity</h5>
@@ -30,4 +30,4 @@ previous: "../older-adults-and-their-oral-health/"
 <p>Although older adults’ medical and dental care needs are greater than ever before, for many seniors the ability to finance care declines with age. Older adults with lower incomes are less likely to use dental services. Similarly, high income seniors report more frequent utilization of dental services, and are also more likely to have private dental insurance.</p>
 <h5>Insurance</h5>
 <p>Numerous studies indicate that at all ages, those with private dental insurance utilize dental services more than those who do not have dental insurance. Not only is dental insurance associated with utilization of dental services, but so too is private health insurance, suggesting that health insurance, regardless of whether it is dental, private or public, may act as an enabler of utilization, because adults with some coverage may be able to use some of the health savings towards dental care.</p>
-</div></form>
+</div>

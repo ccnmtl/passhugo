@@ -10,4 +10,3 @@ depth: 3
 next: "../defend-selection/"
 previous: "../review-strategies/"
 ---
-<form method="post" action="."></form>

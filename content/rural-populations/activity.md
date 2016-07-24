@@ -10,7 +10,7 @@ depth: 3
 next: "../review-strategies/"
 previous: "../rural-populations-and-oral-health/"
 ---
-<form method="post" action="."><h3>Background: Your role</h3><div class="pageblock">
+<h3>Background: Your role</h3><div class="pageblock">
 <p>You are the Springdale County Chair to the North Oralington State Dental Association (NOSDA).</p>
 <p>You've been impressed by the different ways dentists have improved oral health care opportunities for rural adults in other parts of the country and you’d like to draw on their experiences to do the same for Springdale County.</p>
 <p>You have been notified that NOSDA was awarded a two-year $450,000 grant from a private non-profit institution with the specific goal of improving oral health and access to dental services for rural low income adults. NOSDA leadership has approached you as they are interested in executing the grant within Springdale County.</p>
@@ -36,4 +36,4 @@ Select the proposal that will be most successful for improving oral health and a
 <p><strong>3. Defend the proposal.</strong><br/>
 Defend your selected proposal before NOSDA leadership and answer questions about how and why you made your selection.</p><br/>
 <p>Let's begin by reviewing the strategies...</p>
-</div></form>
+</div>

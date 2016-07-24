@@ -10,7 +10,7 @@ depth: 3
 next: "../activity/"
 previous: "../rural-populations-and-the-relationship-between-hea/"
 ---
-<form method="post" action="."><div class="pageblock">
+<div class="pageblock">
 <div class="caption">
 </div>{{< figure src="/img/assets/rural-vs-urban-indic.png" alt="Data table: Some other indicators of rural populations' oral health status" class="" >}}</div><div class="pageblock"><p>Residents of rural areas have higher rates of dental and periodontal disease and more unmet dental need than their urban counterparts. They are also more likely to have had only one dental visit in the past year, versus urban dwellers (2-3 visits), which suggests that rural patients seek dental care only for emergencies or urgent relief rather than preventive, basic, or advanced procedures. Rural residents tend to have had a longer amount of time lapse between dental visits than urban dwellers.</p>
 </div><div class="pageblock">
@@ -26,4 +26,4 @@ previous: "../rural-populations-and-the-relationship-between-hea/"
 <li>Rural patients travel an average distance of 17.5 miles or 27.2 minutes to see a dentist, as compared with urban  populations' 8.3 miles or 20.7 minutes.</li>
 <li>Many of the states with the largest proportion of rural residents relative to overall population, for example Maine, Montana, and Texas, offer the most limited dental coverage (emergency services only) through adult Medicaid. </li>
 </ul>
-</div></form>
+</div>

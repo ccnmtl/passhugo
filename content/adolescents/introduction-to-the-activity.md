@@ -10,7 +10,7 @@ depth: 3
 next: "../interview-stakeholders/"
 previous: "../health-services-that-us-adolescents-receive/"
 ---
-<form method="post" action="."><h3>Background</h3><div class="pageblock"><p>You are a North Oralington licensed general dentist working in a private suburban practice when you are approached by Duane County's St. Cabrini Adolescent Health Center (AHC). They are seeking your assistance in expanding their health services to include an oral health program to serve the underserved poor/low income adolescents in the local neighborhood. Even though you don’t have extensive experience working with young adults, you agree to help.</p>
+<h3>Background</h3><div class="pageblock"><p>You are a North Oralington licensed general dentist working in a private suburban practice when you are approached by Duane County's St. Cabrini Adolescent Health Center (AHC). They are seeking your assistance in expanding their health services to include an oral health program to serve the underserved poor/low income adolescents in the local neighborhood. Even though you don’t have extensive experience working with young adults, you agree to help.</p>
 </div><h3>Your charge</h3><div class="pageblock"><p>After estimating that you can set aside half a day each week from your primary practice, you agree to serve as a part-time dental consultant. You have been given the responsibility of choosing a physical site location for the dental program and advising on the overall operation and design.</p>
 <p>The St. Cabrini board of directors would like to come present your recommendations and answer any questions regarding the program design. You are scheduled to present at their next board meeting in <strong>4 days.</strong></p>
 </div><h3>How to begin</h3><div class="pageblock"><p>Use the interactive map on the next page to learn more about the local area by turning on and off the layers.</p>
@@ -24,4 +24,4 @@ previous: "../health-services-that-us-adolescents-receive/"
 <li>Describe how you believe the program should be designed</li>
 <li>Answer questions from the St. Cabrini board of directors</li>
 </ol>
-</div></form>
+</div>
