@@ -5,10 +5,10 @@ type: "module-page"
 menu:
   young_children:
     parent: "young_children"
-    weight: 14
+    weight: 6
 depth: 3
-next: "../feedback/"
-previous: "../your-summary/"
+next: "../conclusion/"
+previous: "../your-selections/"
 ---
 <h3>Dr. Erika Brodkin</h3><div class="pageblock"><div class="maintext">
 <p>Watch the following video of Dr. Erika Brodkin, a pediatric dentist, who has a successful career serving a Medicaid population in a community health clinic.</p>

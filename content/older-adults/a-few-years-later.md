@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 20
+    weight: 18
 depth: 3
 next: "../dr-david-albert/"
 previous: "../oral-health-considerations/"

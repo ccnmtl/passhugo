@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 8
+    weight: 6
 depth: 3
 next: "../activity/"
 previous: "../where-you-live-matters/"

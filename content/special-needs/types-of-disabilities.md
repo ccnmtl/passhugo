@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 4
+    weight: 2
 depth: 3
 next: "../general-health-issues/"
 previous: "../defining-the-special-needs-population/"

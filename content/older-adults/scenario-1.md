@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 11
+    weight: 9
 depth: 4
 next: "../later-on/"
 previous: "../mr-and-mrs-smith/"

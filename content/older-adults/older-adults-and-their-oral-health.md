@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 4
+    weight: 2
 depth: 3
 next: "../access-to-and-utilization-of-dental-services/"
 previous: "../defining-older-adults-in-the-united-states/"

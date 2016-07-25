@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   adolescents:
     parent: "adolescents"
-    weight: 6
+    weight: 4
 depth: 3
 next: "../interview-stakeholders/"
 previous: "../health-services-that-us-adolescents-receive/"

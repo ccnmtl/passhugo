@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 6
+    weight: 4
 depth: 3
 next: "../activity/"
 previous: "../rural-populations-and-the-relationship-between-hea/"

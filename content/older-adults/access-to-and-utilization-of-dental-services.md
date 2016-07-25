@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 5
+    weight: 3
 depth: 3
 next: "../public-financing-of-dental-healthcare/"
 previous: "../older-adults-and-their-oral-health/"

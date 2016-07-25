@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 11
+    weight: 9
 depth: 4
 next: "../pre-visit/"
 previous: "../meet-tyler/"

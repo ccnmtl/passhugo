@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 7
+    weight: 5
 depth: 3
 next: "../medical-comorbidities/"
 previous: "../public-financing-of-dental-healthcare/"

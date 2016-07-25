@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 5
+    weight: 3
 depth: 3
 next: "../special-needs-populations-and-oral-health/"
 previous: "../types-of-disabilities/"

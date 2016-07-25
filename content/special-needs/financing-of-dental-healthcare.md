@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 8
+    weight: 6
 depth: 3
 next: "../activity/"
 previous: "../access-and-utilization-of-dental-services/"

@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 16
+    weight: 14
 depth: 4
 next: "../support-services/"
 previous: "../scenario-2/"

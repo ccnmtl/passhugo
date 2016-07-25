@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 4
+    weight: 2
 depth: 3
 next: "../rural-populations-and-the-relationship-between-hea/"
 previous: "../defining-rural-adults-in-the-united-states/"

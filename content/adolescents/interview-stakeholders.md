@@ -5,8 +5,9 @@ type: "module-page"
 menu:
   adolescents:
     parent: "adolescents"
-    weight: 7
+    weight: 5
 depth: 3
-next: "../select-practice-location/"
+next: "../exemplars/"
 previous: "../introduction-to-the-activity/"
 ---
+{{< interactives url="dentaloffice" width="900px" height="800px" >}}

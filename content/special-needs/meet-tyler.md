@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 10
+    weight: 8
 depth: 4
 next: "../qa-with-tylers-mom/"
 previous: "../activity/"

@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   older_adults:
     parent: "older_adults"
-    weight: 9
+    weight: 7
 depth: 3
 next: "../mr-and-mrs-smith/"
 previous: "../medical-comorbidities/"

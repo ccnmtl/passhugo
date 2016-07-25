@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 5
+    weight: 3
 depth: 3
 next: "../rural-populations-and-oral-health/"
 previous: "../rural-populations-an-overview/"

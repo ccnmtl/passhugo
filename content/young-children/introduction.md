@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   young_children:
     parent: "young_children"
-    weight: 2
+    weight: 0
 depth: 3
 next: "../population-overview/"
 ---

@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 3
+    weight: 1
 depth: 3
 next: "../types-of-disabilities/"
 previous: "../introduction/"

@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 14
+    weight: 12
 depth: 4
 next: "../visit-summary/"
 previous: "../preparing-for-the-first-treatment/"

@@ -5,10 +5,10 @@ type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 13
+    weight: 7
 depth: 3
-next: "../feedback/"
-previous: "../reselect-strategy/"
+next: "../conclusion/"
+previous: "../review-strategies/"
 ---
 <div class="pageblock"><p>Listen to Dr. Carole Pratt recommend ways to become involved with helping rural populations. Every little bit counts!</p>
 

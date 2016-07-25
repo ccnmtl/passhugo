@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   special_needs:
     parent: "special_needs"
-    weight: 13
+    weight: 11
 depth: 4
 next: "../home-care/"
 previous: "../pre-visit/"

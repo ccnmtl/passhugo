@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 2
+    weight: 0
 depth: 3
 next: "../defining-rural-adults-in-the-united-states/"
 ---

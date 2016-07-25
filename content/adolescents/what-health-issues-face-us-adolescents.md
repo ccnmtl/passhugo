@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   adolescents:
     parent: "adolescents"
-    weight: 4
+    weight: 2
 depth: 3
 next: "../health-services-that-us-adolescents-receive/"
 previous: "../defining-adolescent-populations/"
