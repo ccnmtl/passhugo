@@ -20,6 +20,7 @@
     "supportservices-pack": "^0.1.2",
     "dentalofficelocation-pack": "^0.1.2",
     "dentalruralhealth-pack": "^0.1.2",
+    "dentalcareerplan-pack": "^0.1.2",
     "webpack": "^1.13.1"
   },
   "devDependencies": {

@@ -7,3 +7,4 @@ webpack:  $(JS_SENTINAL)
 	$(WEBPACK_UTIL) --output-path $(OUTPUT_PATH)specialneedsvisit/ --config ./node_modules/specialneedsvisit-pack/webpack.config.js
 	$(WEBPACK_UTIL) --output-path $(OUTPUT_PATH)dentaloffice/ --config ./node_modules/dentalofficelocation-pack/webpack.config.js
 	$(WEBPACK_UTIL) --output-path $(OUTPUT_PATH)ruralhealth/ --config ./node_modules/dentalruralhealth-pack/webpack.config.js
+	$(WEBPACK_UTIL) --output-path $(OUTPUT_PATH)careerplan/ --config ./node_modules/dentalcareerplan-pack/webpack.config.js
