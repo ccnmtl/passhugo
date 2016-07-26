@@ -10,4 +10,4 @@ depth: 5
 next: "../advise-sally/"
 previous: "../career-planning-activity/"
 ---
-{{< interactives url="careermap" width="900px" height="800px" >}}
+{{< interactives url="careerplan" width="900px" height="800px" >}}
