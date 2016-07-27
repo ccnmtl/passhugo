@@ -10,4 +10,4 @@ depth: 5
 next: "../your-selections/"
 previous: "../advise-sam/"
 ---
-{{< interactives url="careerplan" width="900px" height="800px" >}}
+{{< interactives url="careerplan/?actorIdx=1" width="900px" height="800px" >}}
