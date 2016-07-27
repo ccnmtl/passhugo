@@ -21,6 +21,8 @@
     "dentalofficelocation-pack": "^0.1.2",
     "dentalruralhealth-pack": "^0.1.2",
     "dentalcareerplan-pack": "^0.1.2",
+    "elderissuesdresser-pack": "^0.1.1",
+    "elderissuesrefrigerator-pack": "^0.1.1",
     "webpack": "^1.13.1"
   },
   "devDependencies": {
