@@ -176,6 +176,7 @@ header.container {
 .sidenav .nav {
     background-color: #b6d8db;
     width: 195px;
+    padding-bottom: 20px;
 }
 
 .sidenav .nav a {
@@ -483,7 +484,7 @@ header.container {
     #section-list {
         display: block !important;
         box-shadow: none !important;
-
+        padding-bottom: 0;
     }
 }
 
