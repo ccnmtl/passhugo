@@ -4,9 +4,10 @@ STAGING_BUCKET=passhugo.stage.ccnmtl.columbia.edu
 PROD_BUCKET=pass.ctl.columbia.edu
 INTERMEDIATE_STEPS ?= echo nothing
 
-JS_FILES=static/js/src
+JS_FILES=static/js/src themes/ctl-book/static/js/
 
-all: jshint jscs webpack
+
+all: webpack jshint jscs
 
 include *.mk
 
