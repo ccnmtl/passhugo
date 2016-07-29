@@ -15,23 +15,6 @@ previous: "../preparing-for-the-first-treatment/"
 <p>Your radiographic and clinical exam indicate that Tyler does not need to return for 6 more months. 
 You are pleased with how your first visit went and want to continue working towards establishing a dental home for Tyler but know that Donna has been having difficulty caring for Tyler’s oral health.  </p>
 </div><div class="pageblock"><p>Review the following information on home care techniques to help provide Donna with suggestions on how to care for Tyler’s teeth: <a href="http://ccnmtl.columbia.edu/projects/pass/SpecialNeeds_Mod5/Caregivers%20at%20home%20oral%20health%20tips.ppt">Home Care Techniques</a></p>
-</div><div class="pageblock mod5-previsit">
-
-
-
-
-
-
-
-  
-
-
-<div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>What three suggestions can you provide for Donna in helping care for Tyler’s teeth in between your visits?</p></div></div><textarea rows="10" name="question160" class="form-control"></textarea></div></div></div>
-
-
-
-  <script src="/media/quizblock/js/quizshow.js"></script>
-
-
+</div><div class="pageblock mod5-previsit"><div class="cases"><div class="casetitle">Question 1:</div><div class="casecontent"><div class="casequestion"><div class="casequestion-text clearfix"><div class="q-mod5">Q:</div><div class="question-text"><p>What three suggestions can you provide for Donna in helping care for Tyler’s teeth in between your visits?</p></div></div><textarea class="form-control" name="question160" rows="10"></textarea></div></div></div>
 
 </div><div class="submit-container"><input class="btn btn-info btn-submit-section" type="submit" value="Submit" /></div></form>
