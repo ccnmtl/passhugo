@@ -16,7 +16,7 @@
     "url": "https://github.com/ccnmtl/passhugo/issues"
   },
   "dependencies": {
-    "specialneedsvisit-pack": "^0.1.4",
+    "specialneedsvisit-pack": "^0.1.5",
     "supportservices-pack": "^0.1.3",
     "dentalofficelocation-pack": "^0.1.3",
     "dentalruralhealth-pack": "^0.1.3",
