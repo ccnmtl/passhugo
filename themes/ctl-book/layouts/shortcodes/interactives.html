@@ -1,6 +1,6 @@
-<div class="iframe-embed">
+<div class='iframe-embed {{ .Get "minsize" }} {{ .Get "name" }}'>
 	<iframe src='/lib/{{ .Get "url" }}'
-		width='{{ .Get "width" }}'
-		height='{{ .Get "height" }}'
+		frameborder='0'
+		height='800'
 	></iframe>
 </div>

@@ -436,6 +436,9 @@ header.container {
     width: 100%;
 }
 
+.sm iframe  {
+    width: 700px;
+}
 
 @media (max-width: 415px) {
 }
@@ -473,6 +476,12 @@ header.container {
     }
 }
 
+@media (min-width: 992px) {
+    .sm iframe  {
+        width: 920px;
+    }
+}
+
 @media (min-width: 1200px) {
     .close-section-menu {
         width: 0px;
@@ -504,6 +513,9 @@ header.container {
     #section-list {
         display: block !important;
         box-shadow: none !important;
+    }
+    .sm iframe  {
+        width: 925px;
     }
 }
 
