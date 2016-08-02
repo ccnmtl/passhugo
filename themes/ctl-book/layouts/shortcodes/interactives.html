@@ -1,5 +1,6 @@
-<div class='iframe-embed {{ .Get "mediadevice" }} {{ .Get "name" }}'>
-	<iframe src='/lib/{{ .Get "name" }}'
-		frameborder=0
+<div class="iframe-embed">
+	<iframe src='/lib/{{ .Get "url" }}'
+		width='{{ .Get "width" }}'
+		height='{{ .Get "height" }}'
 	></iframe>
 </div>
