@@ -10,4 +10,6 @@ depth: 3
 next: "../exemplars/"
 previous: "../introduction-to-the-activity/"
 ---
-{{< interactives url="dentaloffice" width="900px" height="800px" >}}
+
+
+{{< interactives url="dentaloffice" minsize="all" name="dentaloffice" >}}
