@@ -425,6 +425,17 @@ header.container {
           box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+/* Interactives embed ----------------------------------------------------- */
+
+.iframe-embed {
+    border: 0;
+    padding: 0;
+}
+
+.all iframe  {
+    width: 100%;
+}
+
 
 @media (max-width: 415px) {
 }
