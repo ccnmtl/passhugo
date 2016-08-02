@@ -10,4 +10,6 @@ depth: 3
 next: "../dr-carole-pratt/"
 previous: "../activity/"
 ---
-{{< interactives url="ruralhealth" width="900px" height="800px" >}}
+
+
+{{< interactives url="ruralhealth" minsize="all" name="ruralhealth" >}}
