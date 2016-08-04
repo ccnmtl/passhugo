@@ -437,7 +437,11 @@ header.container {
 }
 
 .sm iframe  {
-    width: 700px;
+    width: 803px;
+}
+
+.md iframe  {
+    width: 920px;
 }
 
 @media (max-width: 415px) {
@@ -473,6 +477,9 @@ header.container {
     }
     .footer-logos img {
         height: 50px;
+    }
+    .sm iframe {
+        width: 803px;
     }
 }
 
@@ -515,6 +522,9 @@ header.container {
         box-shadow: none !important;
     }
     .sm iframe  {
+        width: 925px;
+    }
+    .md iframe  {
         width: 925px;
     }
 }
