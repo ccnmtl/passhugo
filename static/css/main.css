@@ -343,6 +343,9 @@ td
 /* Interactives embed ----------------------------------------------------- */
 
 @media (min-width: 768px) {
+    .elderissues iframe {
+        height: 700px;
+    }
     .specialneedsvisit iframe {
         height: 960px;
     }
