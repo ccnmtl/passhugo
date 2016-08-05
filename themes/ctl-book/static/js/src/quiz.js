@@ -62,17 +62,15 @@ function submitStatePrioritized(elt) {
 }
 
 jQuery(document).ready(function() {
-    var exitWarning = false;
-    var printed = false;
 
     // add a print button to every page with a submit button
     jQuery('.btn-submit-section').after(
-            '<button class="btn btn-default btn-print hidden">Print</button>');
+            '<button class="btn btn-default btn-print flash ' +
+            'hidden">Print</button>');
 
     jQuery('.btn-print').click(function(evt) {
         evt.preventDefault();
         window.print();
-        printed = true;
         return false;
     });
 
@@ -121,15 +119,6 @@ jQuery(document).ready(function() {
 
         if (!submitted) {
             alert('Please complete all form fields before continuing.');
-            evt.preventDefault();
-            return false;
-        }
-
-        if (!printed && !exitWarning) {
-            exitWarning = true;
-            alert('We suggest you print the completed activity results ' +
-                  'before continuing. Your answers will not be saved ' +
-                  'once you leave this page.');
             evt.preventDefault();
             return false;
         }
