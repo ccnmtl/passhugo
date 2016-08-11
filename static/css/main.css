@@ -339,6 +339,15 @@ td
     margin-bottom: 10px;
 }
 
+.dentaloffice iframe {
+    height: 1150px;
+    min-width: 860px;
+}
+
+.ruralhealth iframe {
+    height: 1450px;
+    min-width: 860px;
+}
 
 /* Interactives embed ----------------------------------------------------- */
 
