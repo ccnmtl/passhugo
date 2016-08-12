@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "specialneedsvisit-pack": "^0.1.6",
-    "supportservices-pack": "^0.1.5",
+    "supportservices-pack": "^0.1.6",
     "dentalofficelocation-pack": "^0.1.5",
     "dentalruralhealth-pack": "^0.1.5",
     "dentalcareerplan-pack": "^0.1.4",
