@@ -26,6 +26,56 @@ h3 {
     line-height: 120%;
 }
 
+h3 {
+    font-size: 20px;
+    line-height: 120%;
+}
+
+h5 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* Table styles */
+table
+{
+    margin: 0 0 1em 0;
+    padding: 0;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    font-size: 100%;
+}
+
+table.noborders,
+table.noborders td
+
+{
+    border: none;
+    padding: 10px;
+    vertical-align: top;
+}
+
+table tbody
+{
+    border: 0;
+}
+
+th
+{
+    border: 1px solid #999;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+
+td
+{
+    border: 1px solid #999;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
 /* Header + Banner -------------------------------------------------------- */
 
 #skippy
@@ -192,6 +242,11 @@ header.container {
     background-color: #a1d4d8;
 }
 
+.sidenav .nav a:focus
+{
+    background-color: #d4f2f4;
+}
+
 .sidenav .nav .active,
 .sidenav .nav .active a:hover
 {
@@ -350,6 +405,10 @@ header.container {
     display: block;
 }
 
+.pageblock img {
+    max-width: 100%;
+}
+
 .content {
     background-color: #fff;
     min-height: 550px;
@@ -407,6 +466,10 @@ header.container {
     margin: 15px;
 }
 
+.nowrap {
+    white-space: nowrap;
+}
+
 /* Image (custom) --------------------------------------------------------- */
 
 .img-rounded {
@@ -442,6 +505,13 @@ header.container {
 
 .md iframe  {
     width: 920px;
+}
+
+.video-player iframe {
+    border: 1px solid #ddd;
+    width: 100%;
+    max-width: 560px;
+    max-height: 315px;
 }
 
 @media (max-width: 415px) {
@@ -487,6 +557,9 @@ header.container {
     .sm iframe  {
         width: 920px;
     }
+    .width-warning {
+        display: none;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -527,30 +600,4 @@ header.container {
     .md iframe  {
         width: 925px;
     }
-}
-
-/* quiz styles */
-@-webkit-keyframes flash-orange {
-    0% { background-color: #fff; border-color: #ccc; }
-    50% { background-color: #f0ad4e; border-color: #eea236; }
-    100% { background-color: #fff; border-color: #ccc; }
-}
-
-@-moz-keyframes flash-orange {
-    0% { background-color: #fff; border-color: #ccc; }
-    50% { background-color: #f0ad4e; border-color: #eea236; }
-    100% { background-color: #fff; border-color: #ccc; }
-}
-
-@-ms-keyframes flash-orange {
-    0% { background-color: #fff; border-color: #ccc; }
-    50% { background-color: #f0ad4e; border-color: #eea236; }
-    100% { background-color: #fff; border-color: #ccc; }
-}
-
-.flash {
-  -moz-animation: flash-orange 2s infinite;
-  -webkit-animation: flash-orange 2s infinite;
-  -ms-animation: flash-orange 2s infinite;
-  animation: flash-orange 2s infinite;
 }
