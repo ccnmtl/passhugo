@@ -6,6 +6,7 @@ menu:
   special_needs:
     parent: "special_needs"
     weight: 7
+    identifier: "activity"
 depth: 3
 next: "../meet-tyler/"
 previous: "../financing-of-dental-healthcare/"

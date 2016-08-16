@@ -6,6 +6,7 @@ menu:
   rural_populations:
     parent: "rural_populations"
     weight: 5
+    identifier: "activity"
 depth: 3
 next: "../review-strategies/"
 previous: "../rural-populations-and-oral-health/"

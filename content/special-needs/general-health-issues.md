@@ -6,6 +6,7 @@ menu:
   special_needs:
     parent: "special_needs"
     weight: 3
+    identifier: "general-health-issues"
 depth: 3
 next: "../special-needs-populations-and-oral-health/"
 previous: "../types-of-disabilities/"

@@ -6,6 +6,7 @@ menu:
   special_needs:
     parent: "special_needs"
     weight: 6
+    identifier: "financing-of-dental-healthcare"
 depth: 3
 next: "../activity/"
 previous: "../access-and-utilization-of-dental-services/"

@@ -6,6 +6,7 @@ menu:
   special_needs:
     parent: "special_needs"
     weight: 1
+    identifier: "defining-the-special-needs-population"
 depth: 3
 next: "../types-of-disabilities/"
 previous: "../introduction/"

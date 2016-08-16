@@ -6,6 +6,7 @@ menu:
   adolescents:
     parent: "adolescents"
     weight: 2
+    identifier: "what-health-issues-face-us-adolescents"
 depth: 3
 next: "../health-services-that-us-adolescents-receive/"
 previous: "../defining-adolescent-populations/"

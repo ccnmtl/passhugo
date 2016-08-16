@@ -6,6 +6,7 @@ menu:
   rural_populations:
     parent: "rural_populations"
     weight: 0
+    identifier: "introduction"
 depth: 3
 next: "../defining-rural-adults-in-the-united-states/"
 ---

@@ -6,6 +6,7 @@ menu:
   rural_populations:
     parent: "rural_populations"
     weight: 7
+    identifier: "dr-carole-pratt"
 depth: 3
 next: "../conclusion/"
 previous: "../review-strategies/"

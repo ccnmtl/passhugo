@@ -6,6 +6,7 @@ menu:
   older_adults:
     parent: "older_adults"
     weight: 14
+    identifier: "issues-of-concern"
 depth: 4
 next: "../support-services/"
 previous: "../scenario-2/"

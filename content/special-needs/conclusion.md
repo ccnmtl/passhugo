@@ -6,6 +6,7 @@ menu:
   special_needs:
     parent: "special_needs"
     weight: 14
+    identifier: "conclusion"
 depth: 3
 previous: "../visit-summary/"
 ---

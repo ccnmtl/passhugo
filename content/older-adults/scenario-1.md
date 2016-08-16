@@ -6,6 +6,7 @@ menu:
   older_adults:
     parent: "older_adults"
     weight: 9
+    identifier: "scenario-1"
 depth: 4
 next: "../later-on/"
 previous: "../mr-and-mrs-smith/"

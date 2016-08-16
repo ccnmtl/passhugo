@@ -6,6 +6,7 @@ menu:
   young_children:
     parent: "young_children"
     weight: 3
+    identifier: "advise-sam"
 depth: 5
 next: "../advise-sally/"
 previous: "../career-planning-activity/"

@@ -6,6 +6,7 @@ menu:
   older_adults:
     parent: "older_adults"
     weight: 6
+    identifier: "medical-comorbidities"
 depth: 3
 next: "../activity/"
 previous: "../where-you-live-matters/"
