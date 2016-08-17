@@ -6,6 +6,7 @@ menu:
   rural_populations:
     parent: "rural_populations"
     weight: 2
+    identifier: "rural-populations-an-overview"
 depth: 3
 next: "../rural-populations-and-the-relationship-between-hea/"
 previous: "../defining-rural-adults-in-the-united-states/"

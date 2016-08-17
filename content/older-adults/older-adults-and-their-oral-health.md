@@ -6,6 +6,7 @@ menu:
   older_adults:
     parent: "older_adults"
     weight: 2
+    identifier: "older-adults-and-their-oral-health"
 depth: 3
 next: "../access-to-and-utilization-of-dental-services/"
 previous: "../defining-older-adults-in-the-united-states/"

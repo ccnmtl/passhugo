@@ -6,6 +6,7 @@ menu:
   young_children:
     parent: "young_children"
     weight: 2
+    identifier: "career-planning-activity"
 depth: 3
 next: "../advise-sam/"
 previous: "../population-overview/"

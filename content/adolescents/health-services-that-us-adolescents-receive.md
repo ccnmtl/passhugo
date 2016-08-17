@@ -6,6 +6,7 @@ menu:
   adolescents:
     parent: "adolescents"
     weight: 3
+    identifier: "health-services-that-us-adolescents-receive"
 depth: 3
 next: "../introduction-to-the-activity/"
 previous: "../what-health-issues-face-us-adolescents/"

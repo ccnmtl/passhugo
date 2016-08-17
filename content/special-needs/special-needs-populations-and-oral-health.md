@@ -6,6 +6,7 @@ menu:
   special_needs:
     parent: "special_needs"
     weight: 4
+    identifier: "special-needs-populations-and-oral-health"
 depth: 3
 next: "../access-and-utilization-of-dental-services/"
 previous: "../general-health-issues/"

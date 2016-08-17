@@ -6,6 +6,7 @@ menu:
   rural_populations:
     parent: "rural_populations"
     weight: 4
+    identifier: "rural-populations-and-oral-health"
 depth: 3
 next: "../activity/"
 previous: "../rural-populations-and-the-relationship-between-hea/"

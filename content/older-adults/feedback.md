@@ -6,6 +6,7 @@ menu:
   older_adults:
     parent: "older_adults"
     weight: 12
+    identifier: "feedback"
 depth: 4
 next: "../scenario-2/"
 previous: "../advice/"
