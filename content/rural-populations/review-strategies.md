@@ -13,4 +13,4 @@ previous: "../activity/"
 ---
 
 
-{{< interactives url="ruralhealth" minsize="all" name="ruralhealth" >}}
+{{< interactives url="ruralhealth" minsize="md" name="ruralhealth" >}}

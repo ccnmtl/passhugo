@@ -16,4 +16,4 @@ previous: "../feedback/"
 </div><div class="pageblock">
 </div>
 
-{{< interactives url="elderfridge" minsize="sm" name="elderissues" >}}
+{{< interactives url="elderfridge" minsize="md" name="elderissues" >}}
