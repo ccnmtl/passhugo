@@ -303,6 +303,12 @@ label.selection {
     margin-bottom: 10px;
 }
 
+/* Interactives embed ----------------------------------------------------- */
+
+.careerplan iframe {
+    height: 1530px;
+}
+
 .dentaloffice iframe {
     height: 1150px;
     min-width: 860px;
@@ -313,6 +319,17 @@ label.selection {
     min-width: 860px;
 }
 
+.elderissues iframe {
+    height: 740px;
+}
+
+.supportservices iframe {
+    height: 770px;
+}
+
+.specialneedsvisit iframe {
+    height: 960px;
+}
 
 /* quiz styles */
 @-webkit-keyframes flash-orange {
@@ -343,29 +360,30 @@ label.selection {
 /* Interactives embed ----------------------------------------------------- */
 
 @media (min-width: 768px) {
+}
+
+@media (max-width: 991px) {
+    .ruralhealth iframe {
+        width: 860px;
+    }
+    .dentaloffice iframe {
+        width: 860px;
+    }
     .elderissues iframe {
-        height: 750px;
-    }
-    .specialneedsvisit iframe {
-        height: 960px;
-    }
-    .supportservices iframe {
-        height: 770px;
+        width: 800px;
     }
 }
+
 @media (min-width: 992px) {
+    .supportservices iframe {
+        height: 690px;
+    }
     .specialneedsvisit iframe {
         height: 860px;
-    }
-    .supportservices iframe {
-        height: 700px;
     }
 }
 
 @media (min-width: 1200px) {
-    .specialneedsvisit iframe {
-        height: 860px;
-    }
 }
 
 @media print {

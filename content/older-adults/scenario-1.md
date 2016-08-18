@@ -16,4 +16,4 @@ previous: "../mr-and-mrs-smith/"
 <p>Click on each dresser item to find out more about your aunt and uncle. </p>
 </div>
 
-{{< interactives url="elderdresser" minsize="sm" name="elderissues" >}}
+{{< interactives url="elderdresser" minsize="md" name="elderissues" >}}

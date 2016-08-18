@@ -13,4 +13,4 @@ previous: "../introduction-to-the-activity/"
 ---
 
 
-{{< interactives url="dentaloffice" minsize="all" name="dentaloffice" >}}
+{{< interactives url="dentaloffice" minsize="md" name="dentaloffice" >}}
