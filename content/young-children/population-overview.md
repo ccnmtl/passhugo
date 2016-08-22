@@ -7,6 +7,7 @@ menu:
     parent: "young_children"
     weight: 1
     identifier: "population-overview"
+    pre: 3
 depth: 3
 next: "../career-planning-activity/"
 previous: "../introduction/"

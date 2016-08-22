@@ -7,6 +7,7 @@ menu:
     parent: "special_needs"
     weight: 11
     identifier: "preparing-for-the-first-treatment"
+    pre: 4
 depth: 4
 next: "../home-care/"
 previous: "../pre-visit/"

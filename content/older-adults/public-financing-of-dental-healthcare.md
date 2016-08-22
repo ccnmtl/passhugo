@@ -7,6 +7,7 @@ menu:
     parent: "older_adults"
     weight: 4
     identifier: "public-financing-of-dental-healthcare"
+    pre: 3
 depth: 3
 next: "../where-you-live-matters/"
 previous: "../access-to-and-utilization-of-dental-services/"

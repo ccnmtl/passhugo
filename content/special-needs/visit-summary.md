@@ -7,6 +7,7 @@ menu:
     parent: "special_needs"
     weight: 13
     identifier: "visit-summary"
+    pre: 4
 depth: 4
 next: "../conclusion/"
 previous: "../home-care/"
