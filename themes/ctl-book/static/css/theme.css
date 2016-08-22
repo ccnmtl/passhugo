@@ -199,6 +199,10 @@ header.container {
     min-width: 195px;
 }
 
+.module_list li {
+    margin-bottom: 10px;
+}
+
 /* Sidebar navigation ----------------------------------------------------- */
 
 .module-page .sidenav {
