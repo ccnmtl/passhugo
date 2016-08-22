@@ -26,7 +26,7 @@ previous: "../where-you-live-matters/"
 </th>
 </tr>
 <tr>
-<td><b></b><p>Diabetes</p>
+<td><p><b>Diabetes</b></p>
 <p>As many as 1 in 3 American adults will have diabetes in 2050 if present trends continue. (ADA)</p></td>
 <td>
 <p>Diabetes may result in periodontitits and dry mouth, which is a risk factor for dental caries. In addition, untreated oral infections and periodontal diseases may prevent diabetics from achieving glycemic control.</p> </td>
@@ -35,7 +35,7 @@ previous: "../where-you-live-matters/"
 Good Blood glucose control (Goals for average adult: A1C 7%,Before a meal (preprandial plasma glucose): 70–130 mg/dl 1-2 hours after beginning of the meal (Postprandial plasma glucose): Less than 180 mg/dl ) prevents progression of gum disease. </p></td>
 </tr>
 <tr>
-<td><b></b><p>Depression</p>
+<td><p><b>Depression</b></p>
 <p>About 25% of adults aged 65 years or older have some type of mental health problem, such as a mood disorder not associated with normal aging</p>
 </td>
 <td>
@@ -45,22 +45,21 @@ Good Blood glucose control (Goals for average adult: A1C 7%,Before a meal (prepr
 </td>
 </tr>
 <tr>
-<td><b></b><p>Cardiovascular Disease</p>
+<td><p><b>Cardiovascular Disease</b></p>
 <p>More than 90 percent of all systemic diseases — including heart disease — have oral symptoms, research suggests. (deltadental)</p>
 </td>
 <td>Periodontal diseases may be a risk indicator for heart disease and stroke. Many medications used to treat hypertension, heart disease and stroke may result in dry mouth which can increase an individual's risk for dental caries.  Some medications used to treat heart diseases may cause the gum tissue to become overgrown and inflamed.</td>
 <td>Dentists can help patients with a history of heart disease by examining them for any signs of oral pain, infection or inflammation. Proper diagnosis and treatment of tooth and gum infections in some of these patients have led to a decrease in blood pressure medications and improved overall health.</td>
 </tr>
 <tr>
-<td><b></b><p>Xerostomia
-</p>
+<td><p><b>Xerostomia</b></p>
 <p>More than 400 commonly used medications- most notably antihistamines, diuretics and antidepressants- can cause dry mouth. (CDC)</p>
 </td>
 <td>Xerostomia (dry mouth) may occur as a result of the use of certain medications (including antipsychotics, antidepressants, antianxiolytics, antihistamines, diurectics, and antihypertensives), radiation therapy to the salivary glands, immune dysfunction (HIV/AIDS, diabetes, Sjogrens Syndrome, etc) and from neurologic disorders. Many older people who suffer from dry mouth like to suck on sugary hard candies, this in turn results in an increased risk for dental caries. </td>
 <td>Sugar free gum, sugar free candy, drinking water and commercially available saliva substitutes may help combat dry mouth. It is important to monitor the mouth for plaque build-up, which occur more often with dry mouth. It is also important to ensure adequate fluoride through the use of toothpastes, rinses or gels.</td>
 </tr>
 <tr>
-<td><b></b><p>Osteoporosis</p>
+<td><p><b>Osteoporosis</b></p>
 <p>In the United States more than 40 million people either already have osteoporosis or are at high risk due to low bone mass. (NIH)</p>
 </td>
 <td>
@@ -68,14 +67,14 @@ Dentists may be able to detect the first signs of osteoporosis. Bone loss in the
 <td>Regular dental visits and referral to a primary health care practitioner if osteoporosis is suspected. Suggest getting enough calcium each day through diet (dairy, calcium-fortified foods, broccoli and almonds) or supplements (women: 1,200mg; men: 800mg; anyone over age 65: 1,500mg) and add vitamin D to the diet.</td>
 </tr>
 <tr>
-<td><b></b><p>Arthritis</p>
+<td><p><b>Arthritis</b></p>
 <p>Almost all older adults have experienced tooth decay and have many restorations, but what is less well known is that nearly one in five has untreated decay (CDC)</p>
 </td>
 <td>Arthritis does not directly affect the mouth, but it may affect the temperomandibular joint.  If the joint is affected; patients may complain of pain and difficulty opening the mouth.  This, in turn, affects the type and amount of food that a patient may be able to eat, which may result in poor nutrition. Arthritis can also lead to joint pain in the hands, making it difficult for patients to hold a toothbrush or denture brush.  Arthritis medications can also impact oral health.  Methotrexate, for example, can cause mouth sores, and injectable gold can cause bleeding gums. </td>
 <td>Seniors who have trouble with manual dexterity from arthritis or another condition can use floss holders or interproximal (between-the-teeth) cleaners, which are available at most drugstores and supermarkets. Toothbrush handles may be modified by wrapping a washcloth around the handle and securing it with an elastic band. This will make the handle thicker and easier to hold. Some companies also sell thicker-handled toothbrushes.</td>
 </tr>
 <tr>
-<td><b></b><p>Cancer</p>
+<td><p><b>Cancer</b></p>
 <p>More than one-third of people treated for cancer develop complications that affect the mouth. (NCCN)</p></td>
 <td>
 Head and neck radiation, chemotherapy, and blood and marrow transplantation can cause oral complications ranging from dry mouth to life-threatening infections.</td>

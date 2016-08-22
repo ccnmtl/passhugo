@@ -8,7 +8,7 @@ menu:
     weight: 4
     identifier: "rural-populations-and-oral-health"
 depth: 3
-next: "../activity/"
+next: "../review-strategies/"
 previous: "../rural-populations-and-the-relationship-between-hea/"
 ---
 <div class="pageblock">

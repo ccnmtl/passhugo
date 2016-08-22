@@ -16,9 +16,9 @@ previous: "../rural-populations-an-overview/"
 </div><h3>Rural Populations and Overall Health</h3><div class="pageblock"><p>At the population level, rural residents tend to have poorer health than urban residents. They bear a disproportionate burden of chronic diseases including cardiovascular and pulmonary conditions, a number of cancers, diabetes, pre-term/low birth weight, and chronic pain, as well as unintentional injury, motor vehicle accidents, depression, binge drinking, and suicide. Life expectancy among rural populations is lower than their urban counterparts, and in a number of rural locations has fallen in the last ten to twenty years.</p>
 <table>
 <tr>
-<td><strong>Number of...</strong></td>
-<td><strong>Rural U.S.</strong></td>
-<td><strong>Urban U.S.</strong></td>
+<th class="text-left">Number of...</th>
+<th class="text-left">Rural U.S</th>
+<th class="text-left">Urban U.S.</th>
 </tr>
 <tr>
 <td>Health Professional Shortage Areas</td>

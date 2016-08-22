@@ -13,22 +13,15 @@ previous: "../defining-older-adults-in-the-united-states/"
 ---
 <div class="pageblock"><p>Primarily due to improved preventive measures, US adults are retaining their teeth in increasingly large numbers. Although gains in dentate status represent an improvement in oral health and healthcare across the lifespan, tooth retention also represents a challenge - as the proportion of older adults who are retaining their teeth increases - so too does the prevalence of oral diseases.</p>
 <table>
-<th colspan="7">Prevalence of periodontitis in adults in the United States: 2009 and 2010</th>
+<th class="table-header" colspan="7">Prevalence of periodontitis in adults in the United States: 2009 and 2010</th>
 <tr>
-<td><strong>Age Group (years)</strong>
-</td>
-<td><strong>N</strong>
-</td>
-<td><strong>Weighted N in Millions</strong>
-</td>
-<td><strong>% Total PD</strong>
-</td>
-<td><strong>% Severe PD</strong>
-</td>
-<td><strong>% Moderate PD</strong>
-</td>
-<td><strong>% Mild PD</strong>
-</td>
+<th class="text-left">Age Group (years)</th>
+<th class="text-left">N</th>
+<th class="text-left">Weighted N in Millions</th>
+<th class="text-left">% Total PD</th>
+<th class="text-left">% Severe PD</th>
+<th class="text-left">% Moderate PD</th>
+<th class="text-left">% Mild PD</th>
 </tr>
 <tr>
 <td>30 - 34
@@ -100,12 +93,9 @@ previous: "../defining-older-adults-in-the-united-states/"
 </div><h3>Older adults and oral healthcare</h3><div class="pageblock"><p>The increasing retention of teeth and prevalence of oral diseases, has in turn, increased the need for professional and preventive services, which are often limited by public payor systems. Despite the significant negative impact of oral diseases on quality of life, utilization of professional dental services by the elderly remains low. Nationally, data indicate that over half of adults 65 and older have not seen a dentist in the past year, and 25% have not been to a dentist in the past five years or longer.</p>
 <table>
 <tr>
-<td><strong>Selected characteristic<br/>Age</strong>
-</td>
-<td><strong>Less than 1 year</strong>
-</td>
-<td><strong>More than 5 years, and never</strong>
-</td>
+<th class="text-left">Selected characteristic<br/>Age</th>
+<th class="text-left">Less than 1 year</th>
+<th class="text-left">More than 5 years, and never</th>
 </tr>
 <tr>
 <td>18 - 44 years

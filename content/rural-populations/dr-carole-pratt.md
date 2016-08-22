@@ -5,7 +5,7 @@ type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 7
+    weight: 6
     identifier: "dr-carole-pratt"
 depth: 3
 next: "../conclusion/"

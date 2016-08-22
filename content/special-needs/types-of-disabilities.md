@@ -32,10 +32,10 @@ previous: "../defining-the-special-needs-population/"
 <li>Appears to be on the rise statistically. (See Table 3)</li>
 </ul>
 </div><div class="pageblock"><table>
+<caption>Table 3</caption>
 <tr>
-<td class="caption" colspan="5">
-<b><font size="4.5">Identified Prevalence of Autism Spectrum Disorder</font></b><br/><font size="2.5">ADDM Network 2000-2010</font><br/><font size="2.5">Combining Data from All Sites</font>
-</td>
+<th class="table-header" colspan="5">Identified Prevalence of Autism Spectrum Disorder<br/>ADDM Network 2000-2010<br/>Combining Data from All Sites
+</th>
 </tr><tr>
 <th>Surveillance Year</th>
 <th>Birth Year</th>
@@ -86,7 +86,7 @@ previous: "../defining-the-special-needs-population/"
 <td>1 in 68</td>
 </tr>
 </table>
-</div><div class="pageblock"><b></b><center>Table 3: http://www.cdc.gov/ncbddd/autism/data.html</center>
+</div><div class="pageblock"><p><i><b>Source:</b> <a href="http://www.cdc.gov/ncbddd/autism/data.html" target="_blank">Centers for Disease Control and Prevention</a></i></p>
 </div><div class="pageblock"><h3>Cerebral Palsy (CP):</h3>
 <ul>
 <li>Is the most common motor disability in childhood</li>
