@@ -19,10 +19,8 @@ previous: "../introduction/"
 <p>The older adult population is becoming more racially and ethnically diverse. In 2012, almost one-quarter of older adults were from minority populations.</p>
 <table>
 <tr>
-<td><strong>Race/Ethnicity</strong>
-</td>
-<td><strong>% of 65+ population</strong>
-</td>
+<th class="text-left">Race/Ethnicity</th>
+<th class="text-left">% of 65+ population</th>
 </tr>
 <tr>
 <td>African American

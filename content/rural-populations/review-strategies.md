@@ -1,15 +1,15 @@
 ---
-title: "View Strategies"
+title: "Activity--Recommending A Strategy"
 module: "Rural Populations"
 type: "module-page"
 menu:
   rural_populations:
     parent: "rural_populations"
-    weight: 6
+    weight: 5
     identifier: "review-strategies"
 depth: 3
 next: "../dr-carole-pratt/"
-previous: "../activity/"
+previous: "../rural-populations-and-oral-health/"
 ---
 
 
