@@ -7,6 +7,7 @@ menu:
     parent: "young_children"
     weight: 6
     identifier: "exemplars"
+    pre: 3
 depth: 3
 next: "../conclusion/"
 previous: "../your-selections/"

@@ -7,6 +7,7 @@ menu:
     parent: "older_adults"
     weight: 7
     identifier: "activity"
+    pre: 3
 depth: 3
 next: "../mr-and-mrs-smith/"
 previous: "../medical-comorbidities/"
