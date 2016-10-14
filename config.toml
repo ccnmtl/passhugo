@@ -1,4 +1,4 @@
-baseURL = "http://kodos.ccnmtl.columbia.edu/"
+baseURL = "https://pass.ctl.columbia.edu/"
 googleAnalytics = "UA-51144540-14"
 metaDataFormat = "yaml"
 languageCode = "en-us"
