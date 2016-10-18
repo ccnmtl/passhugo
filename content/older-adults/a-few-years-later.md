@@ -24,4 +24,4 @@ previous: "../oral-health-considerations/"
 <p>Dr. Bunza has been working at the Isabella Geriatric Center for 10 years.  He treats this senior population two days per week.  As Director of the General Practice Residency Program, he works with his residents in treating special needs patients, developmentally disabled patients, patients with medically compromised issues, and the older population, especially those with dementia. </p>
 
 <br/>
-{{< youtube id="NWNxuJ0MK3k" >}}</div>
+{{< youtube id="D-y12J6SIZI" >}}</div>
