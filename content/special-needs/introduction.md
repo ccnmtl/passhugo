@@ -21,4 +21,4 @@ next: "../defining-the-special-needs-population/"
 in the Department of Community Dentistry <br/>College of Dental Medicine, Nova Southeastern University, Ft. Lauderdale, FL </em></p>
 <p>The special needs clinic at Nova Southeastern University College of Dental Medicine is called the Henry Schein Special Needs Clinical Suite. It's housed in North Miami Beach where residents focus on treating people with acquired and/or developmental disabilities as well as those who have special challenges such as physical movement or communication difficulties.  Several faculty, including Dr. Ede-Nichols, are well trained in the provision of dental care for persons with disabilities.</p>
 
-{{< youtube id="NWNxuJ0MK3k" >}}</div>
+{{< youtube id="IlLN3iXB3hk" >}}</div>

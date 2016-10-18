@@ -19,4 +19,4 @@ previous: "../qa-with-tylers-mom/"
 <p>Tyler’s mother agreed to bring him back tomorrow and try again.  </p>
 <p>Watch this video to learn more about the importance of a pre-visit.</p>
 
-{{< youtube id="NWNxuJ0MK3k" >}}</div>
+{{< youtube id="ouTJEbK4NpU" >}}</div>
