@@ -14,4 +14,4 @@ previous: "../advise-sally/"
 ---
 
 
-{{< interactives url="careerplan/?actorIdx=2" minsize="md" name="careerplan" >}}
+{{< interactives url="careerplan/?actorIdx=2&next=1" minsize="md" name="careerplan" >}}

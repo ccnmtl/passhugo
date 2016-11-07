@@ -32,4 +32,8 @@ jQuery(document).ready(function() {
         }
     });
 
+    /* Listen for a signal to navigate to the next page. */
+    jQuery(document).on('nextpage', function() {
+        jQuery('li.next a')[0].click();
+    });
 });

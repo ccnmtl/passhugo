@@ -14,4 +14,4 @@ previous: "../advise-sam/"
 ---
 
 
-{{< interactives url="careerplan/?actorIdx=1" minsize="md" name="careerplan" >}}
+{{< interactives url="careerplan/?actorIdx=1&next=1" minsize="md" name="careerplan" >}}
