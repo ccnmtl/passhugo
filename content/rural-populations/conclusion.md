@@ -11,9 +11,6 @@ menu:
 depth: 3
 previous: "../dr-carole-pratt/"
 ---
-<h3>Congratulations!</h3><div class="pageblock"><p>You have successfully completed Module 3 of Uncharted: a Population-based Approach to Patient Service and Professional Success - Providing Primary Dental Care for Rural Populations.</p>
-</div><h3>Certificate</h3><div class="pageblock"><div class="maintext">
-<p><a href="https://www1.columbia.edu/sec/ccnmtl/remote/static/pass/pdf/PASS_Rural_Completion_Certificate.pdf" target="blank">Download</a> your completion certificate (pdf).</p>
-<p>When you are done, you may log out or return to the <a href="/">introduction page</a>.</p>
-</div>
+<h3>Congratulations!</h3><div class="pageblock"><p>You have successfully completed PASS  <i>Module 3: Providing Primary Dental Care for Rural Populations.</i></p>
+<p style="font-size: XX-large; padding-top: 20px;"><a class="btn btn-info" href="/." style="color: #fff;"><span class="glyphicon glyphicon-home"></span> Go to PASS Homepage</a></p>
 </div>
