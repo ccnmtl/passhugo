@@ -20,7 +20,7 @@
     "supportservices-pack": "^0.1.8",
     "dentalofficelocation-pack": "^0.1.7",
     "dentalruralhealth-pack": "^0.1.7",
-    "dentalcareerplan-pack": "^0.1.8",
+    "dentalcareerplan-pack": "^0.1.9",
     "elderissuesdresser-pack": "^0.1.9",
     "elderissuesrefrigerator-pack": "^0.1.8",
     "webpack": "^1.13.1"
