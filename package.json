@@ -23,10 +23,10 @@
     "dentalcareerplan-pack": "^0.1.9",
     "elderissuesdresser-pack": "^0.1.9",
     "elderissuesrefrigerator-pack": "^0.1.8",
-    "webpack": "^1.13.1"
+    "webpack": "^3.3.0"
   },
   "devDependencies": {
     "jshint": "~2.9.1-rc1",
-    "jscs": "~2.7.0"
+    "jscs": "~3.0.7"
   }
 }
