@@ -16,13 +16,13 @@
     "url": "https://github.com/ccnmtl/passhugo/issues"
   },
   "dependencies": {
-    "specialneedsvisit-pack": "^0.1.8",
-    "supportservices-pack": "^0.1.8",
-    "dentalofficelocation-pack": "^0.1.7",
-    "dentalruralhealth-pack": "^0.1.7",
-    "dentalcareerplan-pack": "^0.1.9",
-    "elderissuesdresser-pack": "^0.1.9",
-    "elderissuesrefrigerator-pack": "^0.1.8",
+    "specialneedsvisit-pack": "^0.1.9",
+    "supportservices-pack": "^0.1.9",
+    "dentalofficelocation-pack": "^0.1.8",
+    "dentalruralhealth-pack": "^0.1.8",
+    "dentalcareerplan-pack": "^0.1.10",
+    "elderissuesdresser-pack": "^0.1.10",
+    "elderissuesrefrigerator-pack": "^0.1.9",
     "webpack": "^3.3.0"
   },
   "devDependencies": {
