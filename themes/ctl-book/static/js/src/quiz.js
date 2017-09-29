@@ -52,7 +52,7 @@ function submitStatePrioritized(elt) {
 
     var lst = jQuery(elt).find('.selection-list');
     jQuery(lst).prepend(otherConcerns).prepend(yourConcern)
-         .removeClass('selection-list').addClass('explanation-list');
+        .removeClass('selection-list').addClass('explanation-list');
     jQuery(elt).find('input[type=radio]').parent().hide();
     jQuery(elt).find('.selection-block').removeClass('hidden');
 
@@ -65,7 +65,7 @@ jQuery(document).ready(function() {
 
     // add a print button to every page with a submit button
     jQuery('.btn-submit-section').after(
-            '<button class="btn btn-default btn-print flash ' +
+        '<button class="btn btn-default btn-print flash ' +
             'hidden">Print</button>');
 
     jQuery('.btn-print').click(function(evt) {
