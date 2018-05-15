@@ -23,10 +23,10 @@
     "dentalcareerplan-pack": "^0.1.10",
     "elderissuesdresser-pack": "^0.1.10",
     "elderissuesrefrigerator-pack": "^0.1.9",
-    "webpack": "^3.3.0"
+    "webpack": "^4.8.3"
   },
   "devDependencies": {
-    "eslint": "~4.10.0",
+    "eslint": "~4.19.1",
     "eslint-config-scanjs": "^1.0.0-beta4",
     "eslint-plugin-no-unsafe-innerhtml": "^1.0.16",
     "eslint-plugin-security": "^1.4.0"
