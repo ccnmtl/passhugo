@@ -14,4 +14,4 @@ previous: "../career-planning-activity/"
 ---
 
 
-{{< interactives url="careerplan/?actorIdx=0&next=1" minsize="md" name="careerplan" >}}
+{{< interactives url="careerplan/?actorIdx=0&next=1&parent=pass" minsize="md" name="careerplan" >}}

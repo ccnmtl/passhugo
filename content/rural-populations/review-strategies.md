@@ -14,4 +14,4 @@ previous: "../rural-populations-and-oral-health/"
 ---
 
 
-{{< interactives url="ruralhealth" minsize="md" name="ruralhealth" >}}
+{{< interactives url="ruralhealth?parent=pass" minsize="md" name="ruralhealth" >}}
