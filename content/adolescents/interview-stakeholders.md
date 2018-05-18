@@ -14,4 +14,4 @@ previous: "../introduction-to-the-activity/"
 ---
 
 
-{{< interactives url="dentaloffice" minsize="md" name="dentaloffice" >}}
+{{< interactives url="dentaloffice?parent=pass" minsize="md" name="dentaloffice" >}}
