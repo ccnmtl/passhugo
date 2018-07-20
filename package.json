@@ -24,7 +24,7 @@
     "specialneedsvisit-pack": "^0.1.10",
     "supportservices-pack": "^0.1.10",
     "webpack": "^4.8.3",
-    "webpack-cli": "~3.0.2"
+    "webpack-cli": "~3.1.0"
   },
   "devDependencies": {
     "eslint": "~5.0.0",
