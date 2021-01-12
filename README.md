@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/ccnmtl/matchhugo/workflows/build-and-test/badge.svg)](https://github.com/ccnmtl/matchhugo/actions)
+[![Actions Status](https://github.com/ccnmtl/passhugo/workflows/build-and-test/badge.svg)](https://github.com/ccnmtl/passhugo/actions)
 
 # passhugo
 
