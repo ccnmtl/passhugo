@@ -16,7 +16,7 @@
     "url": "https://github.com/ccnmtl/passhugo/issues"
   },
   "dependencies": {
-    "dentalcareerplan-pack": "^0.1.11",
+    "dentalcareerplan-pack": "^0.2.0",
     "dentalofficelocation-pack": "^0.1.9",
     "dentalruralhealth-pack": "^0.1.9",
     "elderissuesdresser-pack": "^0.1.11",
