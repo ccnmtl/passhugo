@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "dentalcareerplan-pack": "^0.1.11",
-    "dentalofficelocation-pack": "^0.1.9",
+    "dentalofficelocation-pack": "^0.2.0",
     "dentalruralhealth-pack": "^0.1.9",
     "elderissuesdresser-pack": "^0.1.11",
     "elderissuesrefrigerator-pack": "^0.1.10",
