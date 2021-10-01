@@ -16,19 +16,18 @@
     "url": "https://github.com/ccnmtl/passhugo/issues"
   },
   "dependencies": {
-    "dentalcareerplan-pack": "^0.1.11",
-    "dentalofficelocation-pack": "^0.1.9",
-    "dentalruralhealth-pack": "^0.1.9",
-    "elderissuesdresser-pack": "^0.1.11",
-    "elderissuesrefrigerator-pack": "^0.1.10",
-    "specialneedsvisit-pack": "^0.1.10",
-    "supportservices-pack": "^0.1.10",
-    "webpack": "^4.46.0",
+    "dentalcareerplan-pack": "^0.2.0",
+    "dentalofficelocation-pack": "^0.2.0",
+    "dentalruralhealth-pack": "^0.2.0",
+    "elderissuesdresser-pack": "^0.2.0",
+    "elderissuesrefrigerator-pack": "^0.2.0",
+    "specialneedsvisit-pack": "^0.2.0",
+    "supportservices-pack": "^0.2.0",
+    "webpack": "^5.51.2",
     "webpack-cli": "~4.8.0"
   },
   "devDependencies": {
     "eslint": "~7.32.0",
-    "eslint-config-scanjs": "^1.0.0-beta4",
     "eslint-plugin-no-unsafe-innerhtml": "^1.0.16",
     "eslint-plugin-security": "^1.4.0"
   }
