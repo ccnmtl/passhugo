@@ -1,5 +1,5 @@
 baseURL = "https://pass.ctl.columbia.edu/"
-googleAnalytics = "UA-51144540-14"
+googleAnalytics = "G-0W9LW89SD8"
 metaDataFormat = "yaml"
 languageCode = "en-us"
 theme = "ctl-book"
