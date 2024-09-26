@@ -23,7 +23,7 @@
     "elderissuesrefrigerator-pack": "^0.2.0",
     "specialneedsvisit-pack": "^0.2.0",
     "supportservices-pack": "^0.2.0",
-    "webpack": "^5.94.0",
+    "webpack": "^5.95.0",
     "webpack-cli": "~5.1.4"
   },
   "devDependencies": {
